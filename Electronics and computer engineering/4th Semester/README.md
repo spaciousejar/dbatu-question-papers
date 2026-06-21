@@ -1,17 +1,15 @@
-# Question Papers of 4th Semester (4-Sem)
+# ECE — 4th Semester
 
-Welcome to the repository for the question papers of the 4th semester in Electronics and Computer Engineering. This section is dedicated to providing students with access to a comprehensive collection of past examination papers, assignments, and other relevant resources that can significantly aid in their studies and exam preparations.
+Question papers for 4th Semester of ECE.
 
-In this repository, you will find materials covering a variety of subjects included in the 4th semester curriculum, such as:
+## Subjects
 
-- Python Programming
-- Database Management System
-- Basic Human Rights
-- Probability Theory and Random Processes
-- Professional Elective Courses – I
-- Microcontroller and Advanced Processor
-- Data Analysis
-- Electromagnetic Engineering and Wave Propagation
-- Linux OS
+- [Basic Human Rights](Basic%20Human%20Rights/) (3 papers)
+- [Data Analysis](Data%20Analysis/) (2 papers)
+- [Linux OS](Linux%20OS/) (1 papers)
+- [Microcontroller and Advanced Processor](Microcontroller%20and%20Advanced%20Processor/) (2 papers)
+- [Probability Theory and Random Processes](Probability%20Theory%20and%20Random%20Processes/) (3 papers)
+- [Python Programming](Python%20Programming/) (3 papers)
+- [Signal and System](Signal%20and%20System/) (1 papers)
+- [Universal Human Values-II](Universal%20Human%20Values-II/) (2 papers)
 
-We encourage students to utilize these resources effectively and to contribute any additional materials they may have, such as notes, tutorials, or practice questions, to help their peers succeed. Your contributions are invaluable in creating a supportive learning environment. Happy studying!

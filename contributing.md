@@ -1,36 +1,40 @@
-# Contributing to the Question Papers of DBATU University (Electronics and Computer Engineering)
+# Contributing to the Question Papers of DBATU University
 
 Thank you for your interest in contributing to this repository! We appreciate your efforts to help improve the resources available for students. Please follow the guidelines below to ensure a smooth contribution process.
 
+
 ## How to Contribute
 
-1. **Fork the Repository**: Click on the "Fork" button at the top right corner of the repository page to create your own copy of the repository.
+1. **Fork the Repository**: Click on the "Fork" button at the top right corner of the repository page.
 
-2. **Create a New Branch**: Navigate to your forked repository and create a new branch for your feature or fix. You can do this using the following command:
+2. **Create a New Branch**:
    ```
-   git checkout -b your-feature-branch
-   ```
-
-3. **Make Your Changes**: Implement your changes in the appropriate files. Ensure that your code is well-structured and follows the existing coding style.
-
-4. **Commit Your Changes**: After making your changes, commit them with a clear and concise message describing what you have done. Use the following command:
-   ```
-   git commit -m "Brief description of your changes"
+   git checkout -b your-paper-branch
    ```
 
-5. **Push Your Branch**: Push your changes to your forked repository using:
+3. **Add Question Papers**: Place papers in the correct directory following the naming conventions below.
+
+4. **Commit Your Changes**:
    ```
-   git push origin your-feature-branch
+   git commit -m "Add [Subject Name] [Semester] question papers"
    ```
 
-6. **Submit a Pull Request**: Go to the original repository and submit a pull request. Provide a detailed description of your changes and why they are necessary.
+5. **Push and Submit a Pull Request**:
+   ```
+   git push origin your-paper-branch
+   ```
+
+## Naming Conventions
+
+- **First-year papers**: Place in `1 year common to all/<Semester>/<Subject>/`
+- **Branch-specific papers**: Place in `<Branch>/<Semester>/<Subject>/`
+- **File names**: Use the format `SubjectName_ExamType_Season_Year.pdf` (e.g., `Engineering Mathematics-I_Regular_Winter_2025.pdf`)
+- **Lab papers**: Include "Lab" in the filename
+- **Supplementary/Supply papers**: Include "Supply" in the filename
 
 ## Guidelines
 
-- **Code Quality**: Ensure that your code is clean, well-documented, and free of errors. Consider adding comments where necessary to explain complex logic.
+- **Place files in the correct semester and subject folder** based on the official DBATU curriculum..
+- **Use descriptive filenames** that include the subject name, exam type (Regular/Supply), and year.
 
-- **Respect the License**: This repository is licensed under the MIT License. Make sure your contributions comply with this license.
-
-- **Be Respectful**: Treat all contributors and maintainers with respect. We are all here to learn and improve.
-
-Thank you for contributing to the Question Papers of DBATU University (Electronics and Computer Engineering)! Your efforts are greatly appreciated.
+Thank you for contributing to the Question Papers of DBATU University! Your efforts are greatly appreciated.

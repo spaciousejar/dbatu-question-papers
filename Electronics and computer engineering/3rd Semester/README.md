@@ -1,13 +1,13 @@
-# Question Papers of 3rd Semester
+# ECE — 3rd Semester
 
-Welcome to the repository for the question papers of the 3rd semester in Electronics and Computer Engineering. This section contains a collection of past examination papers and other relevant resources that can aid students in their studies and exam preparations.
+Question papers for 3rd Semester of ECE.
 
-Here, you will find various subjects covered in the 3rd semester curriculum, including but not limited to:
+## Subjects
 
-- Computer Architecture & Operating Systems 
-- Digital Electronics & Microprocessors
-- Electronics Devices & Circuit
-- Engineering Mathematics-III
-- Programming, Data  Structure & Algorithm using C 
+- [computer architecture and operating system (CAOS)](computer%20architecture%20and%20operating%20system%20%28CAOS%29/) (6 papers)
+- [Database Management System](Database%20Management%20System/) (3 papers)
+- [digital electronics and microprocessor](digital%20electronics%20and%20microprocessor/) (6 papers)
+- [Electronics Devices & Circuits](Electronics%20Devices%20%26%20Circuits/) (6 papers)
+- [Engineering Mathematics-III](Engineering%20Mathematics-III/) (8 papers)
+- [Programming, Data Structure & Algorithm using C](Programming%2C%20Data%20Structure%20%26%20Algorithm%20using%20C/) (6 papers)
 
-We encourage students to utilize these resources effectively and to contribute any additional materials they may have to help their peers succeed. Happy studying!

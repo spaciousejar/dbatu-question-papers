@@ -1,23 +1,18 @@
-# Question Papers of 5th Semester (5-Sem)
+# ECE — 5th Semester
 
-Welcome to the repository for the question papers of the 5th semester in Electronics and Computer Engineering. This section is designed to provide students with easy access to a wide range of past examination papers, assignments, and other essential resources that can greatly assist in their studies and exam preparations.
+Question papers for 5th Semester of ECE.
 
-In this repository, you will find materials covering various subjects included in the 5th semester curriculum, such as:
+## Subjects
 
-- Computer Networks & Cloud Computing 
-- Digital Signal & Image Processing 
-- Professional Elective Course (PEC) -II 
-  - Sensors and Robotics Technology 
-  - Data Warehouse & Data Mining 
-  - Wireless & Mobile Computing 
-  - Software Engineering  
-- Open Elective Course (OEC) - I 
-  - Microelectronics Devices and Circuits 
-  - Analog & Digital Communication  
-  - Programming in JAVA  
-  - Electrical Machines and Instrumentation  
-- Humanities and Social Sciences including Management Elective Course - I  
-  - Economics and Management  
-  - Business Communication 
+- [Analog Communications](Analog%20Communications/) (1 papers)
+- [Android Programming](Android%20Programming/) (1 papers)
+- [Artificial Intelligence and Machine Learning](Artificial%20Intelligence%20and%20Machine%20Learning/) (1 papers)
+- [Computer Network and Cloud Computing](Computer%20Network%20and%20Cloud%20Computing/) (2 papers)
+- [Digital Signal and Image Processing](Digital%20Signal%20and%20Image%20Processing/) (4 papers)
+- [Digital Signal Processing](Digital%20Signal%20Processing/) (1 papers)
+- [Economics and Management](Economics%20and%20Management/) (2 papers)
+- [Electromagnetic Field Theory](Electromagnetic%20Field%20Theory/) (1 papers)
+- [Embedded System Design](Embedded%20System%20Design/) (1 papers)
+- [Programming in Java](Programming%20in%20Java/) (3 papers)
+- [Software Engineering](Software%20Engineering/) (2 papers)
 
-We encourage students to utilize these resources effectively and to contribute any additional materials they may have, such as notes, tutorials, or practice questions, to help their peers succeed. Your contributions are invaluable in creating a supportive learning environment. Together, we can enhance our understanding and performance in these subjects. Happy studying!
