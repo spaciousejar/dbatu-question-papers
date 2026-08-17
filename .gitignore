@@ -1,0 +1,14 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temp / editor
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Trash from cleanup (reversible backup)
+/tmp/

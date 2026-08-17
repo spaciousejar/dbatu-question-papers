@@ -1,13 +1,16 @@
-# Question Papers — Electronics & Telecommunication Engineering (ETE)
+# Question Papers — Electronics & Telecommunication Engineering
 
-Question papers for ETE students at DBATU, covering semesters 3 through 7.
+Question papers for Electronics & Telecommunication Engineering students at DBATU.
 
 ## Semesters
 
-| Semester | Subjects |
-|----------|----------|
-| [3rd Semester](3rd%20Semester/) | Engineering Mathematics-III, Digital Electronics, Electrical Machines & Instruments, Electronic Devices & Circuits, Universal Human Values-II |
-| [4th Semester](4th%20Semester/) | Basic Human Rights, Network Theory, Probability Theory & Random Processes, Signals & Systems, Python Programming |
-| [5th Semester](5th%20Semester/) | Analog Communication, Digital Signal Processing, Electromagnetic Field Theory, Embedded System Design, Control System Engineering |
-| [6th Semester](6th%20Semester/) | Antennas & Wave Propagation, Computer Network, Digital Communication, Microprocessors & Microcontrollers, Employability & Skill Development |
-| [7th Semester](7th%20Semester/) | Microwave Engineering, Mobile Computing, Fiber Optic Communication, Engineering Economics, Data Structures using Java, E-Waste Management |
+| Semester | Papers |
+|----------|--------|
+| [3rd Semester](3rd%20Semester/) | 20 papers |
+| [3rd](3rd/) | 2 papers |
+| [4th Semester](4th%20Semester/) | 21 papers |
+| [4th](4th/) | 1 papers |
+| [5th Semester](5th%20Semester/) | 36 papers |
+| [5th](5th/) | 5 papers |
+| [6th Semester](6th%20Semester/) | 34 papers |
+| [7th Semester](7th%20Semester/) | 34 papers |

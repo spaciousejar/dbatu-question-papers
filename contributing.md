@@ -1,40 +1,86 @@
 # Contributing to the Question Papers of DBATU University
 
-Thank you for your interest in contributing to this repository! We appreciate your efforts to help improve the resources available for students. Please follow the guidelines below to ensure a smooth contribution process.
+Thank you for your interest in contributing to this repository! Please follow these guidelines.
 
+## Repository Structure
+
+```
+Branch/
+  Nth Semester/
+    Subject/
+      Subject-W-2023.pdf        # Winter 2023
+      Subject-S-2024.pdf        # Summer 2024
+      Subject-2025.pdf          # Year only (session unknown)
+      Subject-2-Supp.pdf        # Supplementary paper
+      Subject-Assignment.pdf    # Assignment
+      Subject-Notes.pdf         # Notes
+```
+
+## Directory Structure
+
+| Branch | Folder |
+|--------|--------|
+| Common subjects (1st/2nd year) | `1 year common to all/` |
+| Computer Science | `Computer science engineering/` |
+| Electronics & Computer | `Electronics and computer engineering/` |
+| Electronics & Telecom | `Electronics and Telecommunication engineering/` |
+| Mechanical | `Mechanical Engineering/` |
+| Civil | `Civil Engineering/` |
+| Chemical | `Chemical & Petrochemical Engineering/` |
+| AI & Data Science | `Artificial Intelligence & Data Science/` |
+| B.Pharm | `Pharmacy - B.Pharm/` |
+| M.Pharm | `Pharmacy - M.Pharm/` |
+| Electrical | `Electrical Engineering/` |
+| Mechatronics | `Mechatronics Engineering/` |
+| Biomedical | `Biomedical Engineering/` |
+
+## File Naming Convention
+
+```
+Subject-Session-Year.pdf
+```
+
+**Session codes:**
+- `W` = Winter (December/January exams)
+- `S` = Summer (May/June exams)
+- Omit if unknown
+
+**Examples:**
+- `Engineering Mathematics-W-2023.pdf`
+- `Data Structures-S-2024.pdf`
+- `Digital Electronics.pdf` (year unknown)
+- `Operating Systems-2-Supp.pdf` (supplementary, duplicate number)
+- `Database Management Systems-Assignment.pdf`
+
+**Rules:**
+- Subject name: Title Case, spaces not underscores
+- Hyphens separate metadata fields
+- No timestamps, subject codes, or college codes in filenames
+- Remove contributor tags like `{Pran Tehare}`
 
 ## How to Contribute
 
-1. **Fork the Repository**: Click on the "Fork" button at the top right corner of the repository page.
+1. **Fork** the repository
+2. **Create a branch**: `git checkout -b add-physics-papers`
+3. **Place papers** in the correct `Branch/Semester/Subject/` folder
+4. **Name files** following the convention above
+5. **Commit**: `git commit -m "Add Engineering Physics Winter 2023 papers"`
+6. **Push and open a Pull Request**
 
-2. **Create a New Branch**:
-   ```
-   git checkout -b your-paper-branch
-   ```
+## What to Include
 
-3. **Add Question Papers**: Place papers in the correct directory following the naming conventions below.
+- Previous year question papers (PYQ)
+- Supplementary/re-appear papers
+- Model answer papers
+- Assignments (if they contain practice questions)
 
-4. **Commit Your Changes**:
-   ```
-   git commit -m "Add [Subject Name] [Semester] question papers"
-   ```
+## What NOT to Include
 
-5. **Push and Submit a Pull Request**:
-   ```
-   git push origin your-paper-branch
-   ```
+- Textbooks or full syllabus documents
+- Personal notes unrelated to exams
+- Duplicate copies of papers already in the repo
+- Large files (>20 MB) — link to external hosting instead
 
-## Naming Conventions
+## Checking for Duplicates
 
-- **First-year papers**: Place in `1 year common to all/<Semester>/<Subject>/`
-- **Branch-specific papers**: Place in `<Branch>/<Semester>/<Subject>/`
-- **File names**: Use the format `SubjectName_ExamType_Season_Year.pdf` (e.g., `Engineering Mathematics-I_Regular_Winter_2025.pdf`)
-- **Lab papers**: Include "Lab" in the filename
-- **Supplementary/Supply papers**: Include "Supply" in the filename
-
-## Guidelines
-
-- **Place files in the correct semester and subject folder** based on the official DBATU curriculum..
-- **Use descriptive filenames** that include the subject name, exam type (Regular/Supply), and year.
-
-Thank you for contributing to the Question Papers of DBATU University! Your efforts are greatly appreciated.
+Before submitting, check [INDEX.md](INDEX.md) to see if the paper already exists. Each subject folder may have multiple papers — look for matching year and session before adding.

@@ -1,10 +1,16 @@
-# Question Papers — First Year (Common to All Branches)
+# Question Papers — Common to All Branches (1st & 2nd Year)
 
-This directory contains question papers for **first-year engineering** at DBATU, which are common to all branches.
+Question papers for Common to All Branches (1st & 2nd Year) students at DBATU.
 
 ## Semesters
 
-| Semester | Subjects |
-|----------|----------|
-| [1st Semester](1st%20Semester/) | Engineering Mathematics-I, Engineering Physics, Engineering Graphics, Communication Skills, Energy and Environment Engineering, Basic Civil and Mechanical Engineering |
-| [2nd Semester](2nd%20Semester/) | Engineering Mathematics-II, Engineering Chemistry, Engineering Mechanics, Computer Programming in C, Basic Electrical and Electronics Engineering |
+| Semester | Papers |
+|----------|--------|
+| [1st Semester](1st%20Semester/) | 95 papers |
+| [1st](1st/) | 3 papers |
+| [2nd Semester](2nd%20Semester/) | 110 papers |
+| [2nd](2nd/) | 1 papers |
+| [3rd](3rd/) | 10 papers |
+| [4th](4th/) | 4 papers |
+| [6th](6th/) | 3 papers |
+| [7th](7th/) | 3 papers |

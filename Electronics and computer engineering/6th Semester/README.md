@@ -1,6 +1,6 @@
 # ECE — 6th Semester
 
-Question papers for 6th Semester of ECE.
+Question papers for 6th Semester of Electronics & Computer Engineering.
 
 ## Subjects
 
@@ -12,4 +12,3 @@ Question papers for 6th Semester of ECE.
 - [Internet of Things](Internet%20of%20Things/) (3 papers)
 - [Software Testing](Software%20Testing/) (3 papers)
 - [VLSI Design](VLSI%20Design/) (1 papers)
-

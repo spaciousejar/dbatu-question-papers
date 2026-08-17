@@ -1,6 +1,6 @@
 # CSE — 7th Semester
 
-Question papers for 7th Semester of CSE.
+Question papers for 7th Semester of Computer Science Engineering.
 
 ## Subjects
 
@@ -10,5 +10,3 @@ Question papers for 7th Semester of CSE.
 - [Cloud Computing](Cloud%20Computing/) (5 papers)
 - [Cyber Security](Cyber%20Security/) (2 papers)
 - [Deep Learning](Deep%20Learning/) (7 papers)
-- [Miscellaneous](Miscellaneous/) (0 papers)
-

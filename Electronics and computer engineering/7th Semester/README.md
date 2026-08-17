@@ -1,6 +1,6 @@
 # ECE — 7th Semester
 
-Question papers for 7th Semester of ECE.
+Question papers for 7th Semester of Electronics & Computer Engineering.
 
 ## Subjects
 
@@ -12,4 +12,3 @@ Question papers for 7th Semester of ECE.
 - [Industry 4.0 and Automation](Industry%204.0%20and%20Automation/) (2 papers)
 - [Microwave Engineering](Microwave%20Engineering/) (1 papers)
 - [Web Development](Web%20Development/) (1 papers)
-

@@ -1,6 +1,6 @@
 # ECE — 4th Semester
 
-Question papers for 4th Semester of ECE.
+Question papers for 4th Semester of Electronics & Computer Engineering.
 
 ## Subjects
 
@@ -12,4 +12,3 @@ Question papers for 4th Semester of ECE.
 - [Python Programming](Python%20Programming/) (3 papers)
 - [Signal and System](Signal%20and%20System/) (1 papers)
 - [Universal Human Values-II](Universal%20Human%20Values-II/) (2 papers)
-

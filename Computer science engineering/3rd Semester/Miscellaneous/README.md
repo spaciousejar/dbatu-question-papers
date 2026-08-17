@@ -1,5 +1,5 @@
-# Miscellaneous — 
+# Miscellaneous
 
-Scanned images, screenshots, old format papers, and uncategorized items.
-
-**Total Files:** 4
+**Branch:** Computer science engineering
+**Semester:** 3rd Semester
+**Total Papers:** 3

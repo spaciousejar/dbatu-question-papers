@@ -1,14 +1,17 @@
-# Question Papers of Electronics and Computer Engineering (ECE)
+# Question Papers — Electronics & Computer Engineering
 
-Welcome to the repository dedicated to the question papers of Electronics and Computer Engineering (ECE). This section serves as a valuable resource for students, providing access to a wide array of past examination papers, assignments, and other essential materials that can significantly enhance your learning experience and exam preparation.
+Question papers for Electronics & Computer Engineering students at DBATU.
 
-In this repository, you will find a comprehensive collection of question papers covering various Semester within the ECE curriculum, including but not limited to:
+## Semesters
 
-- 3rd Semester
-- 4th Semester
-- 5th Semester
-- 6th Semester
-
-
-
-We encourage students to make the most of these resources and to contribute any additional materials they may have, such as notes, tutorials, or practice questions, to support their peers in their academic journey. Your contributions are vital in fostering a collaborative and enriching learning environment. Happy studying!
+| Semester | Papers |
+|----------|--------|
+| [3rd Semester](3rd%20Semester/) | 35 papers |
+| [3rd](3rd/) | 21 papers |
+| [4th Semester](4th%20Semester/) | 17 papers |
+| [4th](4th/) | 11 papers |
+| [5th Semester](5th%20Semester/) | 19 papers |
+| [5th](5th/) | 8 papers |
+| [6th Semester](6th%20Semester/) | 16 papers |
+| [7th Semester](7th%20Semester/) | 10 papers |
+| [7th](7th/) | 6 papers |
