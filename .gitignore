@@ -12,3 +12,6 @@ desktop.ini
 
 # Trash from cleanup (reversible backup)
 /tmp/
+
+# macOS AppleDouble sidecars (created when copying from FAT/exFAT)
+._*
