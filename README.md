@@ -54,4 +54,4 @@ To add a paper or correct a filename, see [contributing.md](contributing.md).
 
 ## License
 
-This repository is licensed under the MIT License. See the [License](License) file for more information.
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
