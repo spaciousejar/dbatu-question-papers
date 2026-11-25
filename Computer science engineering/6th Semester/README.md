@@ -12,5 +12,4 @@ Question papers for 6th Semester of Computer Science Engineering.
 - [Employability and Skill Development](Employability%20and%20Skill%20Development/) (5 papers)
 - [Internet of Things](Internet%20of%20Things/) (9 papers)
 - [Machine Learning](Machine%20Learning/) (6 papers)
-- [Miscellaneous](Miscellaneous/) (4 papers)
 - [Software Testing](Software%20Testing/) (1 paper)

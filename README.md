@@ -32,8 +32,7 @@ To search across all branches, open [INDEX.md](INDEX.md) and use your browser's 
 | [Artificial Intelligence & Data Science](Artificial%20Intelligence%20%26%20Data%20Science/) | 5th-7th Semester | 52 |
 | [Electrical Engineering](Electrical%20Engineering/) | 6th & 7th Semester | 5 |
 | [Mechatronics Engineering](Mechatronics%20Engineering/) | 6th-7th Semester | 9 |
-| [Biomedical Engineering](Biomedical%20Engineering/) | 6th Semester | 3 |
-| [Miscellaneous](Miscellaneous/) | Unclassified scans and collections | 26 |
+| [Biomedical Engineering](Biomedical%20Engineering/) | 6th Semester | 0 |
 
 ## Syllabus
 

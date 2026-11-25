@@ -10,4 +10,3 @@ Question papers for 1st Semester of Common to All Branches (1st Semester & 1st S
 - [Engineering Graphics](Engineering%20Graphics/) (12 papers)
 - [Engineering Mathematics-I](Engineering%20Mathematics-I/) (11 papers)
 - [Engineering Physics](Engineering%20Physics/) (15 papers)
-- [Miscellaneous](Miscellaneous/) (13 papers)

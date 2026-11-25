@@ -13,7 +13,6 @@ Question papers for 6th Semester of Civil Engineering.
 - [Energy Conservation and Management](Energy%20Conservation%20and%20Management/) (1 paper)
 - [Foundation Engineering](Foundation%20Engineering/) (13 papers)
 - [Industrial Waste Treatment](Industrial%20Waste%20Treatment/) (1 paper)
-- [Miscellaneous](Miscellaneous/) (2 papers)
 - [Numerical Methods](Numerical%20Methods/) (1 paper)
 - [Open Channel Flow](Open%20Channel%20Flow/) (2 papers)
 - [Project Management](Project%20Management/) (9 papers)

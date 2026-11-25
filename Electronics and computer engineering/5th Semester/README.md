@@ -14,6 +14,5 @@ Question papers for 5th Semester of Electronics & Computer Engineering.
 - [Economics and Management](Economics%20and%20Management/) (2 papers)
 - [Electromagnetic Field Theory](Electromagnetic%20Field%20Theory/) (1 paper)
 - [Embedded System Design](Embedded%20System%20Design/) (1 paper)
-- [Miscellaneous](Miscellaneous/) (5 papers)
 - [Programming in Java](Programming%20in%20Java/) (3 papers)
 - [Software Engineering](Software%20Engineering/) (2 papers)

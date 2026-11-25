@@ -15,7 +15,6 @@ Question papers for 7th Semester of Civil Engineering.
 - [Geographic Data Analysis and Application](Geographic%20Data%20Analysis%20and%20Application/) (1 paper)
 - [Hydrology](Hydrology/) (1 paper)
 - [Infrastructure Engineering](Infrastructure%20Engineering/) (3 papers)
-- [Miscellaneous](Miscellaneous/) (3 papers)
 - [Planning for Sustainable Development](Planning%20for%20Sustainable%20Development/) (1 paper)
 - [Professional Practices](Professional%20Practices/) (5 papers)
 - [Quantitative Techniques in Project Management](Quantitative%20Techniques%20in%20Project%20Management/) (1 paper)

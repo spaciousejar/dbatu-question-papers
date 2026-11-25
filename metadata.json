@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T20:36:48.713",
+  "generated": "2026-11-25T20:48:51.329",
   "repository": "dbatu-question-papers",
   "branches": {
     "1 year common to all": {
@@ -734,132 +734,9 @@
                   "path": "1 year common to all/1st Semester/Engineering Physics/Engineering Physics-2023-07.pdf"
                 }
               ]
-            },
-            "Miscellaneous": {
-              "code": null,
-              "paper_count": 13,
-              "papers": [
-                {
-                  "filename": "B.tech Sem 1 Time Table Common To All Branches 23.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "1 year common to all/1st Semester/Miscellaneous/B.tech Sem 1 Time Table Common To All Branches 23.pdf"
-                },
-                {
-                  "filename": "Frd A210120a095720 First Ranker.com-2017-04.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "1 year common to all/1st Semester/Miscellaneous/Frd A210120a095720 First Ranker.com-2017-04.pdf"
-                },
-                {
-                  "filename": "Frd A210120a0957210 First Ranker.com.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "1 year common to all/1st Semester/Miscellaneous/Frd A210120a0957210 First Ranker.com.pdf"
-                },
-                {
-                  "filename": "Frd A210120a0957212 First Ranker.com.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "1 year common to all/1st Semester/Miscellaneous/Frd A210120a0957212 First Ranker.com.pdf"
-                },
-                {
-                  "filename": "Frd A210120a095728 First Ranker.com.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "1 year common to all/1st Semester/Miscellaneous/Frd A210120a095728 First Ranker.com.pdf"
-                },
-                {
-                  "filename": "Miscellaneous-2018-12.pdf",
-                  "year": 2018,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "1 year common to all/1st Semester/Miscellaneous/Miscellaneous-2018-12.pdf"
-                },
-                {
-                  "filename": "Miscellaneous-2-2019-05.pdf",
-                  "year": 2019,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "1 year common to all/1st Semester/Miscellaneous/Miscellaneous-2-2019-05.pdf"
-                },
-                {
-                  "filename": "Miscellaneous-3-2019-06.pdf",
-                  "year": 2019,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "1 year common to all/1st Semester/Miscellaneous/Miscellaneous-3-2019-06.pdf"
-                },
-                {
-                  "filename": "Miscellaneous-2022.pdf",
-                  "year": 2022,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "1 year common to all/1st Semester/Miscellaneous/Miscellaneous-2022.pdf"
-                },
-                {
-                  "filename": "Miscellaneous-2023-2.pdf",
-                  "year": 2023,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "1 year common to all/1st Semester/Miscellaneous/Miscellaneous-2023-2.pdf"
-                },
-                {
-                  "filename": "Miscellaneous-2024.pdf",
-                  "year": 2024,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "1 year common to all/1st Semester/Miscellaneous/Miscellaneous-2024.pdf"
-                },
-                {
-                  "filename": "Scanner 241223 6.07.38.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "1 year common to all/1st Semester/Miscellaneous/Scanner 241223 6.07.38.pdf"
-                },
-                {
-                  "filename": "Interpersonal Communication Skills And Self Development For Engineers-2022-07.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "1 year common to all/1st Semester/Miscellaneous/Interpersonal Communication Skills And Self Development For Engineers-2022-07.pdf"
-                }
-              ]
             }
           },
-          "paper_count": 90
+          "paper_count": 77
         },
         "2nd Semester": {
           "subjects": {
@@ -1837,24 +1714,9 @@
                   "path": "1 year common to all/2nd Semester/Engineering Mechanics/Engineering Mechanics-12-2023-07.pdf"
                 }
               ]
-            },
-            "Miscellaneous": {
-              "code": null,
-              "paper_count": 1,
-              "papers": [
-                {
-                  "filename": "Fybtes204sem II.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "1 year common to all/2nd Semester/Miscellaneous/Fybtes204sem II.pdf"
-                }
-              ]
             }
           },
-          "paper_count": 104
+          "paper_count": 103
         },
         "3rd Semester": {
           "subjects": {
@@ -1942,21 +1804,6 @@
                 }
               ]
             },
-            "Miscellaneous": {
-              "code": null,
-              "paper_count": 1,
-              "papers": [
-                {
-                  "filename": "Miscellaneous-2025-02.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "1 year common to all/3rd Semester/Miscellaneous/Miscellaneous-2025-02.pdf"
-                }
-              ]
-            },
             "Soft Skill Development": {
               "code": null,
               "paper_count": 1,
@@ -1988,7 +1835,7 @@
               ]
             }
           },
-          "paper_count": 9
+          "paper_count": 8
         },
         "4th Semester": {
           "subjects": {
@@ -2120,8 +1967,8 @@
           "paper_count": 3
         }
       },
-      "paper_count": 213,
-      "subject_count": 28
+      "paper_count": 198,
+      "subject_count": 25
     },
     "Artificial Intelligence & Data Science": {
       "semesters": {
@@ -2274,21 +2121,6 @@
                 }
               ]
             },
-            "Miscellaneous": {
-              "code": null,
-              "paper_count": 1,
-              "papers": [
-                {
-                  "filename": "11263semester5btaipe504dadvancedjava-2025-02.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Artificial Intelligence & Data Science/5th Semester/Miscellaneous/11263semester5btaipe504dadvancedjava-2025-02.pdf"
-                }
-              ]
-            },
             "Robotics": {
               "code": null,
               "paper_count": 1,
@@ -2407,7 +2239,7 @@
               ]
             }
           },
-          "paper_count": 25
+          "paper_count": 24
         },
         "6th Semester": {
           "subjects": {
@@ -2582,21 +2414,6 @@
                 }
               ]
             },
-            "Miscellaneous": {
-              "code": null,
-              "paper_count": 1,
-              "papers": [
-                {
-                  "filename": "11263semester6btaioe604cagilemethodology-2025-02.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Artificial Intelligence & Data Science/6th Semester/Miscellaneous/11263semester6btaioe604cagilemethodology-2025-02.pdf"
-                }
-              ]
-            },
             "Mobile Application Development": {
               "code": null,
               "paper_count": 2,
@@ -2664,7 +2481,7 @@
               ]
             }
           },
-          "paper_count": 22
+          "paper_count": 21
         },
         "7th Semester": {
           "subjects": {
@@ -2729,52 +2546,18 @@
           "paper_count": 5
         }
       },
-      "paper_count": 52,
-      "subject_count": 20
+      "paper_count": 50,
+      "subject_count": 18
     },
     "Biomedical Engineering": {
       "semesters": {
         "6th Semester": {
-          "subjects": {
-            "Miscellaneous": {
-              "code": null,
-              "paper_count": 3,
-              "papers": [
-                {
-                  "filename": "1-2024-12.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Biomedical Engineering/6th Semester/Miscellaneous/1-2024-12.pdf"
-                },
-                {
-                  "filename": "Miscellaneous 2-2024-12.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Biomedical Engineering/6th Semester/Miscellaneous/Miscellaneous 2-2024-12.pdf"
-                },
-                {
-                  "filename": "Miscellaneous-2024-12.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Biomedical Engineering/6th Semester/Miscellaneous/Miscellaneous-2024-12.pdf"
-                }
-              ]
-            }
-          },
-          "paper_count": 3
+          "subjects": {},
+          "paper_count": 0
         }
       },
-      "paper_count": 3,
-      "subject_count": 1
+      "paper_count": 0,
+      "subject_count": 0
     },
     "Chemical & Petrochemical Engineering": {
       "semesters": {
@@ -2810,84 +2593,6 @@
                 }
               ]
             },
-            "Miscellaneous": {
-              "code": null,
-              "paper_count": 8,
-              "papers": [
-                {
-                  "filename": "Mechanical Opeartions Chemical Engg-2022-02.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Chemical & Petrochemical Engineering/3rd Semester/Miscellaneous/Mechanical Opeartions Chemical Engg-2022-02.pdf"
-                },
-                {
-                  "filename": "Miscellaneous 2-2025-02.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Chemical & Petrochemical Engineering/3rd Semester/Miscellaneous/Miscellaneous 2-2025-02.pdf"
-                },
-                {
-                  "filename": "Miscellaneous 3-2025-02.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Chemical & Petrochemical Engineering/3rd Semester/Miscellaneous/Miscellaneous 3-2025-02.pdf"
-                },
-                {
-                  "filename": "Miscellaneous 4-2025-02.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Chemical & Petrochemical Engineering/3rd Semester/Miscellaneous/Miscellaneous 4-2025-02.pdf"
-                },
-                {
-                  "filename": "Miscellaneous 5-2025-02.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Chemical & Petrochemical Engineering/3rd Semester/Miscellaneous/Miscellaneous 5-2025-02.pdf"
-                },
-                {
-                  "filename": "Miscellaneous 6-2025-02.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Chemical & Petrochemical Engineering/3rd Semester/Miscellaneous/Miscellaneous 6-2025-02.pdf"
-                },
-                {
-                  "filename": "Miscellaneous 7-2025-02.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Chemical & Petrochemical Engineering/3rd Semester/Miscellaneous/Miscellaneous 7-2025-02.pdf"
-                },
-                {
-                  "filename": "Miscellaneous-2025-02.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Chemical & Petrochemical Engineering/3rd Semester/Miscellaneous/Miscellaneous-2025-02.pdf"
-                }
-              ]
-            },
             "Process Plant Material Energy Balance": {
               "code": null,
               "paper_count": 1,
@@ -2904,36 +2609,11 @@
               ]
             }
           },
-          "paper_count": 11
+          "paper_count": 3
         },
         "4th Semester": {
-          "subjects": {
-            "Miscellaneous": {
-              "code": null,
-              "paper_count": 2,
-              "papers": [
-                {
-                  "filename": "4th Sem Chemical-2023-06.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Chemical & Petrochemical Engineering/4th Semester/Miscellaneous/4th Sem Chemical-2023-06.pdf"
-                },
-                {
-                  "filename": "4th Sem Petrochemical-2023-06.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Chemical & Petrochemical Engineering/4th Semester/Miscellaneous/4th Sem Petrochemical-2023-06.pdf"
-                }
-              ]
-            }
-          },
-          "paper_count": 2
+          "subjects": {},
+          "paper_count": 0
         },
         "5th Semester": {
           "subjects": {
@@ -2966,42 +2646,9 @@
                   "path": "Chemical & Petrochemical Engineering/5th Semester/Mass Transfer Operations/Mass Transfer Operations-Chemical-Engg-2022-02.pdf"
                 }
               ]
-            },
-            "Miscellaneous": {
-              "code": null,
-              "paper_count": 3,
-              "papers": [
-                {
-                  "filename": "Miscellaneous-2017.pdf",
-                  "year": 2017,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Chemical & Petrochemical Engineering/5th Semester/Miscellaneous/Miscellaneous-2017.pdf"
-                },
-                {
-                  "filename": "Open Elective Iib Pollution Controlin Process Indust Chemical-2023-01.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Chemical & Petrochemical Engineering/5th Semester/Miscellaneous/Open Elective Iib Pollution Controlin Process Indust Chemical-2023-01.pdf"
-                },
-                {
-                  "filename": "Petroleum Refining And Petro Chemical Engg-2023-02.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Chemical & Petrochemical Engineering/5th Semester/Miscellaneous/Petroleum Refining And Petro Chemical Engg-2023-02.pdf"
-                }
-              ]
             }
           },
-          "paper_count": 5
+          "paper_count": 2
         },
         "6th Semester": {
           "subjects": {
@@ -3019,222 +2666,12 @@
                   "path": "Chemical & Petrochemical Engineering/6th Semester/Chemical Reaction Engineering/Chemical Reaction Engineering-2024-12.pdf"
                 }
               ]
-            },
-            "Miscellaneous": {
-              "code": null,
-              "paper_count": 18,
-              "papers": [
-                {
-                  "filename": "Chemical Btchc605vi.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Chemical & Petrochemical Engineering/6th Semester/Miscellaneous/Chemical Btchc605vi.pdf"
-                },
-                {
-                  "filename": "Chemical Btche606avi.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Chemical & Petrochemical Engineering/6th Semester/Miscellaneous/Chemical Btche606avi.pdf"
-                },
-                {
-                  "filename": "Miscellaneous 10-2024-12.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Chemical & Petrochemical Engineering/6th Semester/Miscellaneous/Miscellaneous 10-2024-12.pdf"
-                },
-                {
-                  "filename": "Miscellaneous 2-2024-12.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Chemical & Petrochemical Engineering/6th Semester/Miscellaneous/Miscellaneous 2-2024-12.pdf"
-                },
-                {
-                  "filename": "Miscellaneous 3-2024-12.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Chemical & Petrochemical Engineering/6th Semester/Miscellaneous/Miscellaneous 3-2024-12.pdf"
-                },
-                {
-                  "filename": "Miscellaneous 4-2024-12.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Chemical & Petrochemical Engineering/6th Semester/Miscellaneous/Miscellaneous 4-2024-12.pdf"
-                },
-                {
-                  "filename": "Miscellaneous 5-2024-12.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Chemical & Petrochemical Engineering/6th Semester/Miscellaneous/Miscellaneous 5-2024-12.pdf"
-                },
-                {
-                  "filename": "Miscellaneous 6-2024-12.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Chemical & Petrochemical Engineering/6th Semester/Miscellaneous/Miscellaneous 6-2024-12.pdf"
-                },
-                {
-                  "filename": "Miscellaneous 7-2024-12.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Chemical & Petrochemical Engineering/6th Semester/Miscellaneous/Miscellaneous 7-2024-12.pdf"
-                },
-                {
-                  "filename": "Miscellaneous 8-2024-12.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Chemical & Petrochemical Engineering/6th Semester/Miscellaneous/Miscellaneous 8-2024-12.pdf"
-                },
-                {
-                  "filename": "Miscellaneous 9-2024-12.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Chemical & Petrochemical Engineering/6th Semester/Miscellaneous/Miscellaneous 9-2024-12.pdf"
-                },
-                {
-                  "filename": "Miscellaneous-2019.pdf",
-                  "year": 2019,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Chemical & Petrochemical Engineering/6th Semester/Miscellaneous/Miscellaneous-2019.pdf"
-                },
-                {
-                  "filename": "Miscellaneous-2024-12.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Chemical & Petrochemical Engineering/6th Semester/Miscellaneous/Miscellaneous-2024-12.pdf"
-                },
-                {
-                  "filename": "Y21 1-2024-12.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Chemical & Petrochemical Engineering/6th Semester/Miscellaneous/Y21 1-2024-12.pdf"
-                },
-                {
-                  "filename": "2-2024-12.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Chemical & Petrochemical Engineering/6th Semester/Miscellaneous/2-2024-12.pdf"
-                },
-                {
-                  "filename": "3-2024-12.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Chemical & Petrochemical Engineering/6th Semester/Miscellaneous/3-2024-12.pdf"
-                },
-                {
-                  "filename": "-2024-12.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Chemical & Petrochemical Engineering/6th Semester/Miscellaneous/-2024-12.pdf"
-                },
-                {
-                  "filename": "-2024-12-2.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Chemical & Petrochemical Engineering/6th Semester/Miscellaneous/-2024-12-2.pdf"
-                }
-              ]
             }
           },
-          "paper_count": 19
+          "paper_count": 1
         },
         "7th Semester": {
           "subjects": {
-            "Miscellaneous": {
-              "code": null,
-              "paper_count": 4,
-              "papers": [
-                {
-                  "filename": "Chemical Btchc701vii.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Chemical & Petrochemical Engineering/7th Semester/Miscellaneous/Chemical Btchc701vii.pdf"
-                },
-                {
-                  "filename": "Chemical Sem VII.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Chemical & Petrochemical Engineering/7th Semester/Miscellaneous/Chemical Sem VII.pdf"
-                },
-                {
-                  "filename": "Miscellaneous-2017.pdf",
-                  "year": 2017,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Chemical & Petrochemical Engineering/7th Semester/Miscellaneous/Miscellaneous-2017.pdf"
-                },
-                {
-                  "filename": "Pr Of Essional Elective IV Modeling And Simulationin Chemical-2022-02.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Chemical & Petrochemical Engineering/7th Semester/Miscellaneous/Pr Of Essional Elective IV Modeling And Simulationin Chemical-2022-02.pdf"
-                }
-              ]
-            },
             "Transport Phenomena": {
               "code": null,
               "paper_count": 1,
@@ -3251,40 +2688,15 @@
               ]
             }
           },
-          "paper_count": 5
+          "paper_count": 1
         },
         "8th Semester": {
-          "subjects": {
-            "Miscellaneous": {
-              "code": null,
-              "paper_count": 2,
-              "papers": [
-                {
-                  "filename": "Chemical Btchc801aviii.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Chemical & Petrochemical Engineering/8th Semester/Miscellaneous/Chemical Btchc801aviii.pdf"
-                },
-                {
-                  "filename": "Chemical Btchc802aviii.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Chemical & Petrochemical Engineering/8th Semester/Miscellaneous/Chemical Btchc802aviii.pdf"
-                }
-              ]
-            }
-          },
-          "paper_count": 2
+          "subjects": {},
+          "paper_count": 0
         }
       },
-      "paper_count": 44,
-      "subject_count": 13
+      "paper_count": 7,
+      "subject_count": 7
     },
     "Civil Engineering": {
       "semesters": {
@@ -4317,39 +3729,6 @@
                 }
               ]
             },
-            "Miscellaneous": {
-              "code": null,
-              "paper_count": 3,
-              "papers": [
-                {
-                  "filename": "Advance Environmental Engg-2023-08.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Civil Engineering/5th Semester/Miscellaneous/Advance Environmental Engg-2023-08.pdf"
-                },
-                {
-                  "filename": "Miscellaneous-2024-07.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Civil Engineering/5th Semester/Miscellaneous/Miscellaneous-2024-07.pdf"
-                },
-                {
-                  "filename": "Mte.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Civil Engineering/5th Semester/Miscellaneous/Mte.pdf"
-                }
-              ]
-            },
             "Project Management": {
               "code": null,
               "paper_count": 2,
@@ -4519,7 +3898,7 @@
               ]
             }
           },
-          "paper_count": 54
+          "paper_count": 51
         },
         "6th Semester": {
           "subjects": {
@@ -4799,30 +4178,6 @@
                     "regular"
                   ],
                   "path": "Civil Engineering/6th Semester/Industrial Waste Treatment/Industrial Waste Treatment-2025-07.pdf"
-                }
-              ]
-            },
-            "Miscellaneous": {
-              "code": null,
-              "paper_count": 2,
-              "papers": [
-                {
-                  "filename": "11191semester6btcvpe604jengineeringmanagement-2025-02.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Civil Engineering/6th Semester/Miscellaneous/11191semester6btcvpe604jengineeringmanagement-2025-02.pdf"
-                },
-                {
-                  "filename": "Civil Engg. Sem 6 1.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Civil Engineering/6th Semester/Miscellaneous/Civil Engg. Sem 6 1.pdf"
                 }
               ]
             },
@@ -5238,7 +4593,7 @@
               ]
             }
           },
-          "paper_count": 66
+          "paper_count": 64
         },
         "7th Semester": {
           "subjects": {
@@ -5524,39 +4879,6 @@
                 }
               ]
             },
-            "Miscellaneous": {
-              "code": null,
-              "paper_count": 3,
-              "papers": [
-                {
-                  "filename": "11191semester7btcve705eapplications Of Dronetechnology-2025-02.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Civil Engineering/7th Semester/Miscellaneous/11191semester7btcve705eapplications Of Dronetechnology-2025-02.pdf"
-                },
-                {
-                  "filename": "11191semester7btcve705fadvancedrcdesign-2025-02.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Civil Engineering/7th Semester/Miscellaneous/11191semester7btcve705fadvancedrcdesign-2025-02.pdf"
-                },
-                {
-                  "filename": "11191semester7btcve705hlegalaspectsincivilengineeringcontracts-2025-02.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Civil Engineering/7th Semester/Miscellaneous/11191semester7btcve705hlegalaspectsincivilengineeringcontracts-2025-02.pdf"
-                }
-              ]
-            },
             "Planning for Sustainable Development": {
               "code": null,
               "paper_count": 1,
@@ -5672,7 +4994,7 @@
               ]
             }
           },
-          "paper_count": 37
+          "paper_count": 34
         },
         "8th Semester": {
           "subjects": {
@@ -5742,30 +5064,6 @@
                 }
               ]
             },
-            "Miscellaneous": {
-              "code": null,
-              "paper_count": 2,
-              "papers": [
-                {
-                  "filename": "11191semester8btcvss801gsustainableriverbasinmanagement-2025-02.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Civil Engineering/8th Semester/Miscellaneous/11191semester8btcvss801gsustainableriverbasinmanagement-2025-02.pdf"
-                },
-                {
-                  "filename": "11191semester8btcvss801hmodernconstructionmaterials-2025-02.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Civil Engineering/8th Semester/Miscellaneous/11191semester8btcvss801hmodernconstructionmaterials-2025-02.pdf"
-                }
-              ]
-            },
             "Plastic Waste Management": {
               "code": null,
               "paper_count": 1,
@@ -5782,11 +5080,11 @@
               ]
             }
           },
-          "paper_count": 9
+          "paper_count": 7
         }
       },
-      "paper_count": 230,
-      "subject_count": 66
+      "paper_count": 220,
+      "subject_count": 62
     },
     "Computer science engineering": {
       "semesters": {
@@ -6284,39 +5582,6 @@
                 }
               ]
             },
-            "Miscellaneous": {
-              "code": null,
-              "paper_count": 3,
-              "papers": [
-                {
-                  "filename": "Just.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Computer science engineering/3rd Semester/Miscellaneous/Just.pdf"
-                },
-                {
-                  "filename": "Miscellaneous-2018-02.pdf",
-                  "year": 2018,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Computer science engineering/3rd Semester/Miscellaneous/Miscellaneous-2018-02.pdf"
-                },
-                {
-                  "filename": "Miscellaneous-2023.pdf",
-                  "year": 2023,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Computer science engineering/3rd Semester/Miscellaneous/Miscellaneous-2023.pdf"
-                }
-              ]
-            },
             "Object Oriented Programming in C++": {
               "code": null,
               "paper_count": 5,
@@ -6477,7 +5742,7 @@
               ]
             }
           },
-          "paper_count": 68
+          "paper_count": 65
         },
         "4th Semester": {
           "subjects": {
@@ -8036,48 +7301,6 @@
                 }
               ]
             },
-            "Miscellaneous": {
-              "code": null,
-              "paper_count": 4,
-              "papers": [
-                {
-                  "filename": "Geographic In For Mation System 2-2022-07.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Computer science engineering/6th Semester/Miscellaneous/Geographic In For Mation System 2-2022-07.pdf"
-                },
-                {
-                  "filename": "Geographic In For Mation System-2024-06.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Computer science engineering/6th Semester/Miscellaneous/Geographic In For Mation System-2024-06.pdf"
-                },
-                {
-                  "filename": "Introduction To Research-2022-07.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Computer science engineering/6th Semester/Miscellaneous/Introduction To Research-2022-07.pdf"
-                },
-                {
-                  "filename": "Miscellaneous-2026-01.pdf",
-                  "year": 2026,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Computer science engineering/6th Semester/Miscellaneous/Miscellaneous-2026-01.pdf"
-                }
-              ]
-            },
             "Software Testing": {
               "code": null,
               "paper_count": 1,
@@ -8118,7 +7341,7 @@
               ]
             }
           },
-          "paper_count": 46
+          "paper_count": 42
         },
         "7th Semester": {
           "subjects": {
@@ -8459,8 +7682,8 @@
           "paper_count": 33
         }
       },
-      "paper_count": 265,
-      "subject_count": 43
+      "paper_count": 258,
+      "subject_count": 41
     },
     "Electrical Engineering": {
       "semesters": {
@@ -8500,46 +7723,13 @@
                   "path": "Electrical Engineering/7th Semester/Internet of Things/Internet of Things-2025-02.pdf"
                 }
               ]
-            },
-            "Miscellaneous": {
-              "code": null,
-              "paper_count": 3,
-              "papers": [
-                {
-                  "filename": "11293semester7bteec702powersystemoperationcontrol-2025-02.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Electrical Engineering/7th Semester/Miscellaneous/11293semester7bteec702powersystemoperationcontrol-2025-02.pdf"
-                },
-                {
-                  "filename": "11464semester7btinpe702instrumentationsystemdesign-2025-02.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Electrical Engineering/7th Semester/Miscellaneous/11464semester7btinpe702instrumentationsystemdesign-2025-02.pdf"
-                },
-                {
-                  "filename": "Electrical Bteec703vii.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Electrical Engineering/7th Semester/Miscellaneous/Electrical Bteec703vii.pdf"
-                }
-              ]
             }
           },
-          "paper_count": 4
+          "paper_count": 1
         }
       },
-      "paper_count": 5,
-      "subject_count": 3
+      "paper_count": 2,
+      "subject_count": 2
     },
     "Electronics and Telecommunication engineering": {
       "semesters": {
@@ -9029,24 +8219,9 @@
                   "path": "Electronics and Telecommunication engineering/4th Semester/Universal Human Values-II/Universal Human Values-II-2024-01.pdf"
                 }
               ]
-            },
-            "Miscellaneous": {
-              "code": null,
-              "paper_count": 1,
-              "papers": [
-                {
-                  "filename": "Electronics And Allied Branches Sem 4.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Electronics and Telecommunication engineering/4th Semester/Miscellaneous/Electronics And Allied Branches Sem 4.pdf"
-                }
-              ]
             }
           },
-          "paper_count": 22
+          "paper_count": 21
         },
         "5th Semester": {
           "subjects": {
@@ -9419,39 +8594,6 @@
                 }
               ]
             },
-            "Miscellaneous": {
-              "code": null,
-              "paper_count": 3,
-              "papers": [
-                {
-                  "filename": "Bte To E505bch2089 Bte To E505bps2321 Aiml.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Electronics and Telecommunication engineering/5th Semester/Miscellaneous/Bte To E505bch2089 Bte To E505bps2321 Aiml.pdf"
-                },
-                {
-                  "filename": "Bte To E505c Optimization Technique.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Electronics and Telecommunication engineering/5th Semester/Miscellaneous/Bte To E505c Optimization Technique.pdf"
-                },
-                {
-                  "filename": "Miscellaneous-2023-08.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Electronics and Telecommunication engineering/5th Semester/Miscellaneous/Miscellaneous-2023-08.pdf"
-                }
-              ]
-            },
             "Project Management": {
               "code": null,
               "paper_count": 1,
@@ -9468,7 +8610,7 @@
               ]
             }
           },
-          "paper_count": 39
+          "paper_count": 36
         },
         "6th Semester": {
           "subjects": {
@@ -10211,14 +9353,10 @@
             }
           },
           "paper_count": 34
-        },
-        "Miscellaneous": {
-          "subjects": {},
-          "paper_count": 0
         }
       },
-      "paper_count": 148,
-      "subject_count": 52
+      "paper_count": 144,
+      "subject_count": 50
     },
     "Electronics and computer engineering": {
       "semesters": {
@@ -11358,60 +10496,9 @@
                   "path": "Electronics and computer engineering/5th Semester/Control System Engineering/Control System Engineering-2023-08.pdf"
                 }
               ]
-            },
-            "Miscellaneous": {
-              "code": null,
-              "paper_count": 5,
-              "papers": [
-                {
-                  "filename": "Btexc5 Btexc503ps-2023-08.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Electronics and computer engineering/5th Semester/Miscellaneous/Btexc5 Btexc503ps-2023-08.pdf"
-                },
-                {
-                  "filename": "Digital System Design-2023-08.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Electronics and computer engineering/5th Semester/Miscellaneous/Digital System Design-2023-08.pdf"
-                },
-                {
-                  "filename": "F-2023-08.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Electronics and computer engineering/5th Semester/Miscellaneous/F-2023-08.pdf"
-                },
-                {
-                  "filename": "Miscellaneous-2023-08.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Electronics and computer engineering/5th Semester/Miscellaneous/Miscellaneous-2023-08.pdf"
-                },
-                {
-                  "filename": "T-2023-08.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Electronics and computer engineering/5th Semester/Miscellaneous/T-2023-08.pdf"
-                }
-              ]
             }
           },
-          "paper_count": 27
+          "paper_count": 22
         },
         "6th Semester": {
           "subjects": {
@@ -11824,8 +10911,8 @@
           "paper_count": 0
         }
       },
-      "paper_count": 142,
-      "subject_count": 49
+      "paper_count": 137,
+      "subject_count": 48
     },
     "Mechanical Engineering": {
       "semesters": {
@@ -12134,30 +11221,6 @@
                 }
               ]
             },
-            "Miscellaneous": {
-              "code": null,
-              "paper_count": 2,
-              "papers": [
-                {
-                  "filename": "11615semester3-2025-02.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Mechanical Engineering/3rd Semester/Miscellaneous/11615semester3-2025-02.pdf"
-                },
-                {
-                  "filename": "Mechine Drawing And Cad Y19-2025-07.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Mechanical Engineering/3rd Semester/Miscellaneous/Mechine Drawing And Cad Y19-2025-07.pdf"
-                }
-              ]
-            },
             "Thermodynamics": {
               "code": null,
               "paper_count": 10,
@@ -12255,7 +11318,7 @@
               ]
             }
           },
-          "paper_count": 43
+          "paper_count": 41
         },
         "4th Semester": {
           "subjects": {
@@ -12367,21 +11430,6 @@
                     "regular"
                   ],
                   "path": "Mechanical Engineering/4th Semester/Manufacturing Processes-I/Manufacturing Processes-I-5-2023-07.pdf"
-                }
-              ]
-            },
-            "Miscellaneous": {
-              "code": null,
-              "paper_count": 1,
-              "papers": [
-                {
-                  "filename": "5 Me 2.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Mechanical Engineering/4th Semester/Miscellaneous/5 Me 2.pdf"
                 }
               ]
             },
@@ -12704,7 +11752,7 @@
               ]
             }
           },
-          "paper_count": 44
+          "paper_count": 43
         },
         "5th Semester": {
           "subjects": {
@@ -13257,30 +12305,6 @@
                 }
               ]
             },
-            "Miscellaneous": {
-              "code": null,
-              "paper_count": 2,
-              "papers": [
-                {
-                  "filename": "11624semester5btmxc502manufacturingtechnologies-2025-02.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Mechanical Engineering/5th Semester/Miscellaneous/11624semester5btmxc502manufacturingtechnologies-2025-02.pdf"
-                },
-                {
-                  "filename": "The Or Y Of Machines 19-2025-07.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Mechanical Engineering/5th Semester/Miscellaneous/The Or Y Of Machines 19-2025-07.pdf"
-                }
-              ]
-            },
             "Product Design Engineering": {
               "code": null,
               "paper_count": 3,
@@ -13498,7 +12522,7 @@
               ]
             }
           },
-          "paper_count": 77
+          "paper_count": 75
         },
         "6th Semester": {
           "subjects": {
@@ -13775,21 +12799,6 @@
                 }
               ]
             },
-            "Miscellaneous": {
-              "code": null,
-              "paper_count": 1,
-              "papers": [
-                {
-                  "filename": "Miscellaneous-2024-12.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Mechanical Engineering/6th Semester/Miscellaneous/Miscellaneous-2024-12.pdf"
-                }
-              ]
-            },
             "Process Equipment Design": {
               "code": null,
               "paper_count": 1,
@@ -13923,7 +12932,7 @@
               ]
             }
           },
-          "paper_count": 40
+          "paper_count": 39
         },
         "7th Semester": {
           "subjects": {
@@ -14277,21 +13286,6 @@
                 }
               ]
             },
-            "Miscellaneous": {
-              "code": null,
-              "paper_count": 1,
-              "papers": [
-                {
-                  "filename": "11701semester8btmiss801amanagementin For Mationsystem-2025-02.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Mechanical Engineering/8th Semester/Miscellaneous/11701semester8btmiss801amanagementin For Mationsystem-2025-02.pdf"
-                }
-              ]
-            },
             "Non-Conventional Energy Resources": {
               "code": null,
               "paper_count": 2,
@@ -14332,96 +13326,17 @@
               ]
             }
           },
-          "paper_count": 9
+          "paper_count": 8
         }
       },
-      "paper_count": 241,
-      "subject_count": 51
+      "paper_count": 234,
+      "subject_count": 46
     },
     "Mechatronics Engineering": {
       "semesters": {
         "6th Semester": {
-          "subjects": {
-            "Miscellaneous": {
-              "code": null,
-              "paper_count": 8,
-              "papers": [
-                {
-                  "filename": "1-2024-02.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Mechatronics Engineering/6th Semester/Miscellaneous/1-2024-02.pdf"
-                },
-                {
-                  "filename": "Ch 1-2024-02.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Mechatronics Engineering/6th Semester/Miscellaneous/Ch 1-2024-02.pdf"
-                },
-                {
-                  "filename": "Mechatronics Electronic Control Systems.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Mechatronics Engineering/6th Semester/Miscellaneous/Mechatronics Electronic Control Systems.pdf"
-                },
-                {
-                  "filename": "Peim Ese Supp-2024-12.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Mechatronics Engineering/6th Semester/Miscellaneous/Peim Ese Supp-2024-12.pdf"
-                },
-                {
-                  "filename": "Unit 3 Drives (mechatronics.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Mechatronics Engineering/6th Semester/Miscellaneous/Unit 3 Drives (mechatronics.pdf"
-                },
-                {
-                  "filename": "Unit 4 Microprocessor & Microcontroller.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Mechatronics Engineering/6th Semester/Miscellaneous/Unit 4 Microprocessor & Microcontroller.pdf"
-                },
-                {
-                  "filename": "Unit 5 Control Systems( Mect.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Mechatronics Engineering/6th Semester/Miscellaneous/Unit 5 Control Systems( Mect.pdf"
-                },
-                {
-                  "filename": "Unit 6 Stability Of Systems ( Mect.pdf",
-                  "year": null,
-                  "session": null,
-                  "type": [
-                    "regular"
-                  ],
-                  "path": "Mechatronics Engineering/6th Semester/Miscellaneous/Unit 6 Stability Of Systems ( Mect.pdf"
-                }
-              ]
-            }
-          },
-          "paper_count": 8
+          "subjects": {},
+          "paper_count": 0
         },
         "7th Semester": {
           "subjects": {
@@ -14444,16 +13359,11 @@
           "paper_count": 1
         }
       },
-      "paper_count": 9,
-      "subject_count": 2
-    },
-    "Miscellaneous": {
-      "semesters": {},
-      "paper_count": 0,
-      "subject_count": 0
+      "paper_count": 1,
+      "subject_count": 1
     }
   },
-  "total_papers": 1352,
-  "total_subjects": 328,
-  "total_branches": 11
+  "total_papers": 1251,
+  "total_subjects": 300,
+  "total_branches": 10
 }

@@ -12,4 +12,3 @@ Question papers for 2nd Semester of Common to All Branches (2nd Semester & 2nd S
 - [Engineering Graphics](Engineering%20Graphics/) (10 papers)
 - [Engineering Mathematics-II](Engineering%20Mathematics-II/) (10 papers)
 - [Engineering Mechanics](Engineering%20Mechanics/) (22 papers)
-- [Miscellaneous](Miscellaneous/) (1 paper)

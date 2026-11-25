@@ -6,7 +6,6 @@ Question papers for 4th Semester of Electronics & Telecommunication Engineering.
 
 - [Basic Human Rights](Basic%20Human%20Rights/) (3 papers)
 - [Microcontroller and its Applications](Microcontroller%20and%20its%20Applications/) (1 paper)
-- [Miscellaneous](Miscellaneous/) (1 paper)
 - [Network Theory](Network%20Theory/) (2 papers)
 - [Numerical Methods and Computer Programming](Numerical%20Methods%20and%20Computer%20Programming/) (2 papers)
 - [Probability Theory and Random Processes](Probability%20Theory%20and%20Random%20Processes/) (3 papers)

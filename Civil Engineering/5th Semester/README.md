@@ -11,7 +11,6 @@ Question papers for 5th Semester of Civil Engineering.
 - [Hydrology](Hydrology/) (1 paper)
 - [Irrigation Engineering](Irrigation%20Engineering/) (1 paper)
 - [Materials Testing and Evaluation](Materials%20Testing%20and%20Evaluation/) (5 papers)
-- [Miscellaneous](Miscellaneous/) (3 papers)
 - [Project Management](Project%20Management/) (2 papers)
 - [Soil Mechanics](Soil%20Mechanics/) (4 papers)
 - [Structural Mechanics-II](Structural%20Mechanics-II/) (8 papers)

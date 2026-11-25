@@ -24,7 +24,6 @@ This index lists question papers only. For full syllabi, use [Syllabus](Syllabus
 - [Artificial Intelligence & Data Science](#artificial-intelligence--data-science) (52 papers)
 - [Electrical Engineering](#electrical-engineering) (5 papers)
 - [Mechatronics Engineering](#mechatronics-engineering) (9 papers)
-- [Biomedical Engineering](#biomedical-engineering) (3 papers)
 
 ---
 
@@ -126,22 +125,6 @@ This index lists question papers only. For full syllabi, use [Syllabus](Syllabus
 - [Engineering Physics-8-2025-02.pdf](1%20year%20common%20to%20all/1st%20Semester/Engineering%20Physics/Engineering%20Physics-8-2025-02.pdf)
 - [Engineering Physics-9-2025-02.pdf](1%20year%20common%20to%20all/1st%20Semester/Engineering%20Physics/Engineering%20Physics-9-2025-02.pdf)
 - [Engineering Physics-2023-07.pdf](1%20year%20common%20to%20all/1st%20Semester/Engineering%20Physics/Engineering%20Physics-2023-07.pdf)
-
-#### Miscellaneous
-
-- [Miscellaneous-2018-12.pdf](1%20year%20common%20to%20all/1st%20Semester/Miscellaneous/Miscellaneous-2018-12.pdf)
-- [Miscellaneous-2-2019-05.pdf](1%20year%20common%20to%20all/1st%20Semester/Miscellaneous/Miscellaneous-2-2019-05.pdf)
-- [Miscellaneous-3-2019-06.pdf](1%20year%20common%20to%20all/1st%20Semester/Miscellaneous/Miscellaneous-3-2019-06.pdf)
-- [Miscellaneous-2022.pdf](1%20year%20common%20to%20all/1st%20Semester/Miscellaneous/Miscellaneous-2022.pdf)
-- [Miscellaneous-2023-2.pdf](1%20year%20common%20to%20all/1st%20Semester/Miscellaneous/Miscellaneous-2023-2.pdf)
-- [Miscellaneous-2024.pdf](1%20year%20common%20to%20all/1st%20Semester/Miscellaneous/Miscellaneous-2024.pdf)
-- [B.tech Sem 1 Time Table Common To All Branches 23.pdf](1%20year%20common%20to%20all/1st%20Semester/Miscellaneous/B.tech%20Sem%201%20Time%20Table%20Common%20To%20All%20Branches%2023.pdf)
-- [Frd A210120a095720 First Ranker.com-2017-04.pdf](1%20year%20common%20to%20all/1st%20Semester/Miscellaneous/Frd%20A210120a095720%20First%20Ranker.com-2017-04.pdf)
-- [Frd A210120a0957210 First Ranker.com.pdf](1%20year%20common%20to%20all/1st%20Semester/Miscellaneous/Frd%20A210120a0957210%20First%20Ranker.com.pdf)
-- [Frd A210120a0957212 First Ranker.com.pdf](1%20year%20common%20to%20all/1st%20Semester/Miscellaneous/Frd%20A210120a0957212%20First%20Ranker.com.pdf)
-- [Frd A210120a095728 First Ranker.com.pdf](1%20year%20common%20to%20all/1st%20Semester/Miscellaneous/Frd%20A210120a095728%20First%20Ranker.com.pdf)
-- [Scanner 241223 6.07.38.pdf](1%20year%20common%20to%20all/1st%20Semester/Miscellaneous/Scanner%20241223%206.07.38.pdf)
-- [Interpersonal Communication Skills And Self Development For Engineers-2022-07.pdf](1%20year%20common%20to%20all/1st%20Semester/Miscellaneous/Interpersonal%20Communication%20Skills%20And%20Self%20Development%20For%20Engineers-2022-07.pdf)
 
 ### 2nd Semester
 
@@ -272,10 +255,6 @@ This index lists question papers only. For full syllabi, use [Syllabus](Syllabus
 - [Engineering Mechanics-2025-02.pdf](1%20year%20common%20to%20all/2nd%20Semester/Engineering%20Mechanics/Engineering%20Mechanics-2025-02.pdf)
 - [Engineering Mechanics-12-2023-07.pdf](1%20year%20common%20to%20all/2nd%20Semester/Engineering%20Mechanics/Engineering%20Mechanics-12-2023-07.pdf)
 
-#### Miscellaneous
-
-- [Fybtes204sem II.pdf](1%20year%20common%20to%20all/2nd%20Semester/Miscellaneous/Fybtes204sem%20II.pdf)
-
 ### 3rd Semester
 
 #### E-Business
@@ -298,10 +277,6 @@ This index lists question papers only. For full syllabi, use [Syllabus](Syllabus
 #### Introduction to Law on Electricity
 
 - [Introduction to Law on Electricity-2025-02.pdf](1%20year%20common%20to%20all/3rd%20Semester/Introduction%20to%20Law%20on%20Electricity/Introduction%20to%20Law%20on%20Electricity-2025-02.pdf)
-
-#### Miscellaneous
-
-- [Miscellaneous-2025-02.pdf](1%20year%20common%20to%20all/3rd%20Semester/Miscellaneous/Miscellaneous-2025-02.pdf)
 
 #### Soft Skill Development
 
@@ -415,12 +390,6 @@ This index lists question papers only. For full syllabi, use [Syllabus](Syllabus
 #### Ethical Hacking
 
 - [Ethical Hacking-12242-12245-12915-Allied-2026-01.pdf](Computer%20science%20engineering/3rd%20Semester/Ethical%20Hacking/Ethical%20Hacking-12242-12245-12915-Allied-2026-01.pdf)
-
-#### Miscellaneous
-
-- [Miscellaneous-2018-02.pdf](Computer%20science%20engineering/3rd%20Semester/Miscellaneous/Miscellaneous-2018-02.pdf)
-- [Miscellaneous-2023.pdf](Computer%20science%20engineering/3rd%20Semester/Miscellaneous/Miscellaneous-2023.pdf)
-- [Just.pdf](Computer%20science%20engineering/3rd%20Semester/Miscellaneous/Just.pdf)
 
 #### Object Oriented Programming in C++
 
@@ -677,13 +646,6 @@ This index lists question papers only. For full syllabi, use [Syllabus](Syllabus
 - [Machine Learning-3-2-2024-12.pdf](Computer%20science%20engineering/6th%20Semester/Machine%20Learning/Machine%20Learning-3-2-2024-12.pdf)
 - [Machine Learning-3-2023-07.pdf](Computer%20science%20engineering/6th%20Semester/Machine%20Learning/Machine%20Learning-3-2023-07.pdf)
 - [Machine Learning-4-2023-01.pdf](Computer%20science%20engineering/6th%20Semester/Machine%20Learning/Machine%20Learning-4-2023-01.pdf)
-
-#### Miscellaneous
-
-- [Miscellaneous-2026-01.pdf](Computer%20science%20engineering/6th%20Semester/Miscellaneous/Miscellaneous-2026-01.pdf)
-- [Geographic In For Mation System 2-2022-07.pdf](Computer%20science%20engineering/6th%20Semester/Miscellaneous/Geographic%20In%20For%20Mation%20System%202-2022-07.pdf)
-- [Geographic In For Mation System-2024-06.pdf](Computer%20science%20engineering/6th%20Semester/Miscellaneous/Geographic%20In%20For%20Mation%20System-2024-06.pdf)
-- [Introduction To Research-2022-07.pdf](Computer%20science%20engineering/6th%20Semester/Miscellaneous/Introduction%20To%20Research-2022-07.pdf)
 
 #### Software Testing
 
@@ -952,14 +914,6 @@ This index lists question papers only. For full syllabi, use [Syllabus](Syllabus
 
 - [Control System Engineering-2023-08.pdf](Electronics%20and%20computer%20engineering/5th%20Semester/Control%20System%20Engineering/Control%20System%20Engineering-2023-08.pdf)
 
-#### Miscellaneous
-
-- [Btexc5 Btexc503ps-2023-08.pdf](Electronics%20and%20computer%20engineering/5th%20Semester/Miscellaneous/Btexc5%20Btexc503ps-2023-08.pdf)
-- [Digital System Design-2023-08.pdf](Electronics%20and%20computer%20engineering/5th%20Semester/Miscellaneous/Digital%20System%20Design-2023-08.pdf)
-- [F-2023-08.pdf](Electronics%20and%20computer%20engineering/5th%20Semester/Miscellaneous/F-2023-08.pdf)
-- [Miscellaneous-2023-08.pdf](Electronics%20and%20computer%20engineering/5th%20Semester/Miscellaneous/Miscellaneous-2023-08.pdf)
-- [T-2023-08.pdf](Electronics%20and%20computer%20engineering/5th%20Semester/Miscellaneous/T-2023-08.pdf)
-
 ### 6th Semester
 
 #### Android Programming
@@ -1151,10 +1105,6 @@ This index lists question papers only. For full syllabi, use [Syllabus](Syllabus
 
 - [Universal Human Values-II-2024-01.pdf](Electronics%20and%20Telecommunication%20engineering/4th%20Semester/Universal%20Human%20Values-II/Universal%20Human%20Values-II-2024-01.pdf)
 
-#### Miscellaneous
-
-- [Electronics And Allied Branches Sem 4.pdf](Electronics%20and%20Telecommunication%20engineering/4th%20Semester/Miscellaneous/Electronics%20And%20Allied%20Branches%20Sem%204.pdf)
-
 ### 5th Semester
 
 #### Analog Circuits
@@ -1218,12 +1168,6 @@ This index lists question papers only. For full syllabi, use [Syllabus](Syllabus
 #### Power Electronics
 
 - [Power Electronics-2022-07.pdf](Electronics%20and%20Telecommunication%20engineering/5th%20Semester/Power%20Electronics/Power%20Electronics-2022-07.pdf)
-
-#### Miscellaneous
-
-- [Bte To E505bch2089 Bte To E505bps2321 Aiml.pdf](Electronics%20and%20Telecommunication%20engineering/5th%20Semester/Miscellaneous/Bte%20To%20E505bch2089%20Bte%20To%20E505bps2321%20Aiml.pdf)
-- [Bte To E505c Optimization Technique.pdf](Electronics%20and%20Telecommunication%20engineering/5th%20Semester/Miscellaneous/Bte%20To%20E505c%20Optimization%20Technique.pdf)
-- [Miscellaneous-2023-08.pdf](Electronics%20and%20Telecommunication%20engineering/5th%20Semester/Miscellaneous/Miscellaneous-2023-08.pdf)
 
 #### Project Management
 
@@ -1417,11 +1361,6 @@ This index lists question papers only. For full syllabi, use [Syllabus](Syllabus
 - [Mechanics of Solids-4-2022-02.pdf](Mechanical%20Engineering/3rd%20Semester/Mechanics%20of%20Solids/Mechanics%20of%20Solids-4-2022-02.pdf)
 - [Mechanics of Solids-2018-02.pdf](Mechanical%20Engineering/3rd%20Semester/Mechanics%20of%20Solids/Mechanics%20of%20Solids-2018-02.pdf)
 
-#### Miscellaneous
-
-- [11615semester3-2025-02.pdf](Mechanical%20Engineering/3rd%20Semester/Miscellaneous/11615semester3-2025-02.pdf)
-- [Mechine Drawing And Cad Y19-2025-07.pdf](Mechanical%20Engineering/3rd%20Semester/Miscellaneous/Mechine%20Drawing%20And%20Cad%20Y19-2025-07.pdf)
-
 #### Thermodynamics
 
 - [Thermodynamics-Converted.pdf](Mechanical%20Engineering/3rd%20Semester/Thermodynamics/Thermodynamics-Converted.pdf)
@@ -1453,10 +1392,6 @@ This index lists question papers only. For full syllabi, use [Syllabus](Syllabus
 - [Manufacturing Processes-I-Exter-2025-02.pdf](Mechanical%20Engineering/4th%20Semester/Manufacturing%20Processes-I/Manufacturing%20Processes-I-Exter-2025-02.pdf)
 - [Manufacturing Processes-I-2-4-2023-07.pdf](Mechanical%20Engineering/4th%20Semester/Manufacturing%20Processes-I/Manufacturing%20Processes-I-2-4-2023-07.pdf)
 - [Manufacturing Processes-I-5-2023-07.pdf](Mechanical%20Engineering/4th%20Semester/Manufacturing%20Processes-I/Manufacturing%20Processes-I-5-2023-07.pdf)
-
-#### Miscellaneous
-
-- [5 Me 2.pdf](Mechanical%20Engineering/4th%20Semester/Miscellaneous/5%20Me%202.pdf)
 
 #### Numerical Methods in Engineering
 
@@ -1589,11 +1524,6 @@ This index lists question papers only. For full syllabi, use [Syllabus](Syllabus
 
 - [Metrology and Quality Control-2022-07.pdf](Mechanical%20Engineering/5th%20Semester/Metrology%20and%20Quality%20Control/Metrology%20and%20Quality%20Control-2022-07.pdf)
 
-#### Miscellaneous
-
-- [11624semester5btmxc502manufacturingtechnologies-2025-02.pdf](Mechanical%20Engineering/5th%20Semester/Miscellaneous/11624semester5btmxc502manufacturingtechnologies-2025-02.pdf)
-- [The Or Y Of Machines 19-2025-07.pdf](Mechanical%20Engineering/5th%20Semester/Miscellaneous/The%20Or%20Y%20Of%20Machines%2019-2025-07.pdf)
-
 #### Product Design Engineering
 
 - [Product Design Engineering-2-2025-02.pdf](Mechanical%20Engineering/5th%20Semester/Product%20Design%20Engineering/Product%20Design%20Engineering-2-2025-02.pdf)
@@ -1675,10 +1605,6 @@ This index lists question papers only. For full syllabi, use [Syllabus](Syllabus
 - [Manufacturing Processes-II-3-2025-07.pdf](Mechanical%20Engineering/6th%20Semester/Manufacturing%20Processes-II/Manufacturing%20Processes-II-3-2025-07.pdf)
 - [Manufacturing Processes-II-4-2025-06.pdf](Mechanical%20Engineering/6th%20Semester/Manufacturing%20Processes-II/Manufacturing%20Processes-II-4-2025-06.pdf)
 - [Manufacturing Processes-II-5-2024-01.pdf](Mechanical%20Engineering/6th%20Semester/Manufacturing%20Processes-II/Manufacturing%20Processes-II-5-2024-01.pdf)
-
-#### Miscellaneous
-
-- [Miscellaneous-2024-12.pdf](Mechanical%20Engineering/6th%20Semester/Miscellaneous/Miscellaneous-2024-12.pdf)
 
 #### Process Equipment Design
 
@@ -1764,10 +1690,6 @@ This index lists question papers only. For full syllabi, use [Syllabus](Syllabus
 - [Fundamentals of Automotive Systems-2-2024-06.pdf](Mechanical%20Engineering/8th%20Semester/Fundamentals%20of%20Automotive%20Systems/Fundamentals%20of%20Automotive%20Systems-2-2024-06.pdf)
 - [Fundamentals of Automotive Systems-3-2025-07.pdf](Mechanical%20Engineering/8th%20Semester/Fundamentals%20of%20Automotive%20Systems/Fundamentals%20of%20Automotive%20Systems-3-2025-07.pdf)
 - [Fundamentals of Automotive Systems-4-2025-02.pdf](Mechanical%20Engineering/8th%20Semester/Fundamentals%20of%20Automotive%20Systems/Fundamentals%20of%20Automotive%20Systems-4-2025-02.pdf)
-
-#### Miscellaneous
-
-- [11701semester8btmiss801amanagementin For Mationsystem-2025-02.pdf](Mechanical%20Engineering/8th%20Semester/Miscellaneous/11701semester8btmiss801amanagementin%20For%20Mationsystem-2025-02.pdf)
 
 #### Non-Conventional Energy Resources
 
@@ -1950,12 +1872,6 @@ This index lists question papers only. For full syllabi, use [Syllabus](Syllabus
 - [Materials Testing and Evaluation-4-2023-08.pdf](Civil%20Engineering/5th%20Semester/Materials%20Testing%20and%20Evaluation/Materials%20Testing%20and%20Evaluation-4-2023-08.pdf)
 - [Materials Testing and Evaluation-6.pdf](Civil%20Engineering/5th%20Semester/Materials%20Testing%20and%20Evaluation/Materials%20Testing%20and%20Evaluation-6.pdf)
 
-#### Miscellaneous
-
-- [Advance Environmental Engg-2023-08.pdf](Civil%20Engineering/5th%20Semester/Miscellaneous/Advance%20Environmental%20Engg-2023-08.pdf)
-- [Miscellaneous-2024-07.pdf](Civil%20Engineering/5th%20Semester/Miscellaneous/Miscellaneous-2024-07.pdf)
-- [Mte.pdf](Civil%20Engineering/5th%20Semester/Miscellaneous/Mte.pdf)
-
 #### Project Management
 
 - [Project Management-2-2025-02.pdf](Civil%20Engineering/5th%20Semester/Project%20Management/Project%20Management-2-2025-02.pdf)
@@ -2037,11 +1953,6 @@ This index lists question papers only. For full syllabi, use [Syllabus](Syllabus
 #### Industrial Waste Treatment
 
 - [Industrial Waste Treatment-2025-07.pdf](Civil%20Engineering/6th%20Semester/Industrial%20Waste%20Treatment/Industrial%20Waste%20Treatment-2025-07.pdf)
-
-#### Miscellaneous
-
-- [11191semester6btcvpe604jengineeringmanagement-2025-02.pdf](Civil%20Engineering/6th%20Semester/Miscellaneous/11191semester6btcvpe604jengineeringmanagement-2025-02.pdf)
-- [Civil Engg. Sem 6 1.pdf](Civil%20Engineering/6th%20Semester/Miscellaneous/Civil%20Engg.%20Sem%206%201.pdf)
 
 #### Numerical Methods
 
@@ -2171,12 +2082,6 @@ This index lists question papers only. For full syllabi, use [Syllabus](Syllabus
 - [Infrastructure Engineering-2-2022-02.pdf](Civil%20Engineering/7th%20Semester/Infrastructure%20Engineering/Infrastructure%20Engineering-2-2022-02.pdf)
 - [Infrastructure Engineering-2024-01.pdf](Civil%20Engineering/7th%20Semester/Infrastructure%20Engineering/Infrastructure%20Engineering-2024-01.pdf)
 
-#### Miscellaneous
-
-- [11191semester7btcve705eapplications Of Dronetechnology-2025-02.pdf](Civil%20Engineering/7th%20Semester/Miscellaneous/11191semester7btcve705eapplications%20Of%20Dronetechnology-2025-02.pdf)
-- [11191semester7btcve705fadvancedrcdesign-2025-02.pdf](Civil%20Engineering/7th%20Semester/Miscellaneous/11191semester7btcve705fadvancedrcdesign-2025-02.pdf)
-- [11191semester7btcve705hlegalaspectsincivilengineeringcontracts-2025-02.pdf](Civil%20Engineering/7th%20Semester/Miscellaneous/11191semester7btcve705hlegalaspectsincivilengineeringcontracts-2025-02.pdf)
-
 #### Planning for Sustainable Development
 
 - [Planning for Sustainable Development-2023-01.pdf](Civil%20Engineering/7th%20Semester/Planning%20for%20Sustainable%20Development/Planning%20for%20Sustainable%20Development-2023-01.pdf)
@@ -2213,11 +2118,6 @@ This index lists question papers only. For full syllabi, use [Syllabus](Syllabus
 - [Maintenance and Repair of Concrete Structures-2-2025-07.pdf](Civil%20Engineering/8th%20Semester/Maintenance%20and%20Repair%20of%20Concrete%20Structures/Maintenance%20and%20Repair%20of%20Concrete%20Structures-2-2025-07.pdf)
 - [Maintenance and Repair of Concrete Structures-3-2024-06.pdf](Civil%20Engineering/8th%20Semester/Maintenance%20and%20Repair%20of%20Concrete%20Structures/Maintenance%20and%20Repair%20of%20Concrete%20Structures-3-2024-06.pdf)
 
-#### Miscellaneous
-
-- [11191semester8btcvss801gsustainableriverbasinmanagement-2025-02.pdf](Civil%20Engineering/8th%20Semester/Miscellaneous/11191semester8btcvss801gsustainableriverbasinmanagement-2025-02.pdf)
-- [11191semester8btcvss801hmodernconstructionmaterials-2025-02.pdf](Civil%20Engineering/8th%20Semester/Miscellaneous/11191semester8btcvss801hmodernconstructionmaterials-2025-02.pdf)
-
 #### Plastic Waste Management
 
 - [Plastic Waste Management-2025-02.pdf](Civil%20Engineering/8th%20Semester/Plastic%20Waste%20Management/Plastic%20Waste%20Management-2025-02.pdf)
@@ -2236,27 +2136,11 @@ This index lists question papers only. For full syllabi, use [Syllabus](Syllabus
 
 - [Fluid Flow Operations-Btchc-302-2022-02.pdf](Chemical%20&%20Petrochemical%20Engineering/3rd%20Semester/Fluid%20Flow%20Operations/Fluid%20Flow%20Operations-Btchc-302-2022-02.pdf)
 
-#### Miscellaneous
-
-- [Mechanical Opeartions Chemical Engg-2022-02.pdf](Chemical%20&%20Petrochemical%20Engineering/3rd%20Semester/Miscellaneous/Mechanical%20Opeartions%20Chemical%20Engg-2022-02.pdf)
-- [Miscellaneous 2-2025-02.pdf](Chemical%20&%20Petrochemical%20Engineering/3rd%20Semester/Miscellaneous/Miscellaneous%202-2025-02.pdf)
-- [Miscellaneous 3-2025-02.pdf](Chemical%20&%20Petrochemical%20Engineering/3rd%20Semester/Miscellaneous/Miscellaneous%203-2025-02.pdf)
-- [Miscellaneous 4-2025-02.pdf](Chemical%20&%20Petrochemical%20Engineering/3rd%20Semester/Miscellaneous/Miscellaneous%204-2025-02.pdf)
-- [Miscellaneous 5-2025-02.pdf](Chemical%20&%20Petrochemical%20Engineering/3rd%20Semester/Miscellaneous/Miscellaneous%205-2025-02.pdf)
-- [Miscellaneous 6-2025-02.pdf](Chemical%20&%20Petrochemical%20Engineering/3rd%20Semester/Miscellaneous/Miscellaneous%206-2025-02.pdf)
-- [Miscellaneous 7-2025-02.pdf](Chemical%20&%20Petrochemical%20Engineering/3rd%20Semester/Miscellaneous/Miscellaneous%207-2025-02.pdf)
-- [Miscellaneous-2025-02.pdf](Chemical%20&%20Petrochemical%20Engineering/3rd%20Semester/Miscellaneous/Miscellaneous-2025-02.pdf)
-
 #### Process Plant Material Energy Balance
 
 - [Process Plant Material Energy Balance-2022-02.pdf](Chemical%20&%20Petrochemical%20Engineering/3rd%20Semester/Process%20Plant%20Material%20Energy%20Balance/Process%20Plant%20Material%20Energy%20Balance-2022-02.pdf)
 
 ### 4th Semester
-
-#### Miscellaneous
-
-- [4th Sem Chemical-2023-06.pdf](Chemical%20&%20Petrochemical%20Engineering/4th%20Semester/Miscellaneous/4th%20Sem%20Chemical-2023-06.pdf)
-- [4th Sem Petrochemical-2023-06.pdf](Chemical%20&%20Petrochemical%20Engineering/4th%20Semester/Miscellaneous/4th%20Sem%20Petrochemical-2023-06.pdf)
 
 ### 5th Semester
 
@@ -2268,58 +2152,19 @@ This index lists question papers only. For full syllabi, use [Syllabus](Syllabus
 
 - [Mass Transfer Operations-Chemical-Engg-2022-02.pdf](Chemical%20&%20Petrochemical%20Engineering/5th%20Semester/Mass%20Transfer%20Operations/Mass%20Transfer%20Operations-Chemical-Engg-2022-02.pdf)
 
-#### Miscellaneous
-
-- [Miscellaneous-2017.pdf](Chemical%20&%20Petrochemical%20Engineering/5th%20Semester/Miscellaneous/Miscellaneous-2017.pdf)
-- [Open Elective Iib Pollution Controlin Process Indust Chemical-2023-01.pdf](Chemical%20&%20Petrochemical%20Engineering/5th%20Semester/Miscellaneous/Open%20Elective%20Iib%20Pollution%20Controlin%20Process%20Indust%20Chemical-2023-01.pdf)
-- [Petroleum Refining And Petro Chemical Engg-2023-02.pdf](Chemical%20&%20Petrochemical%20Engineering/5th%20Semester/Miscellaneous/Petroleum%20Refining%20And%20Petro%20Chemical%20Engg-2023-02.pdf)
-
 ### 6th Semester
 
 #### Chemical Reaction Engineering
 
 - [Chemical Reaction Engineering-2024-12.pdf](Chemical%20&%20Petrochemical%20Engineering/6th%20Semester/Chemical%20Reaction%20Engineering/Chemical%20Reaction%20Engineering-2024-12.pdf)
 
-#### Miscellaneous
-
-- [Chemical Btchc605vi.pdf](Chemical%20&%20Petrochemical%20Engineering/6th%20Semester/Miscellaneous/Chemical%20Btchc605vi.pdf)
-- [Chemical Btche606avi.pdf](Chemical%20&%20Petrochemical%20Engineering/6th%20Semester/Miscellaneous/Chemical%20Btche606avi.pdf)
-- [Miscellaneous 10-2024-12.pdf](Chemical%20&%20Petrochemical%20Engineering/6th%20Semester/Miscellaneous/Miscellaneous%2010-2024-12.pdf)
-- [Miscellaneous 2-2024-12.pdf](Chemical%20&%20Petrochemical%20Engineering/6th%20Semester/Miscellaneous/Miscellaneous%202-2024-12.pdf)
-- [Miscellaneous 3-2024-12.pdf](Chemical%20&%20Petrochemical%20Engineering/6th%20Semester/Miscellaneous/Miscellaneous%203-2024-12.pdf)
-- [Miscellaneous 4-2024-12.pdf](Chemical%20&%20Petrochemical%20Engineering/6th%20Semester/Miscellaneous/Miscellaneous%204-2024-12.pdf)
-- [Miscellaneous 5-2024-12.pdf](Chemical%20&%20Petrochemical%20Engineering/6th%20Semester/Miscellaneous/Miscellaneous%205-2024-12.pdf)
-- [Miscellaneous 6-2024-12.pdf](Chemical%20&%20Petrochemical%20Engineering/6th%20Semester/Miscellaneous/Miscellaneous%206-2024-12.pdf)
-- [Miscellaneous 7-2024-12.pdf](Chemical%20&%20Petrochemical%20Engineering/6th%20Semester/Miscellaneous/Miscellaneous%207-2024-12.pdf)
-- [Miscellaneous 8-2024-12.pdf](Chemical%20&%20Petrochemical%20Engineering/6th%20Semester/Miscellaneous/Miscellaneous%208-2024-12.pdf)
-- [Miscellaneous 9-2024-12.pdf](Chemical%20&%20Petrochemical%20Engineering/6th%20Semester/Miscellaneous/Miscellaneous%209-2024-12.pdf)
-- [Miscellaneous-2019.pdf](Chemical%20&%20Petrochemical%20Engineering/6th%20Semester/Miscellaneous/Miscellaneous-2019.pdf)
-- [Miscellaneous-2024-12.pdf](Chemical%20&%20Petrochemical%20Engineering/6th%20Semester/Miscellaneous/Miscellaneous-2024-12.pdf)
-- [Y21 1-2024-12.pdf](Chemical%20&%20Petrochemical%20Engineering/6th%20Semester/Miscellaneous/Y21%201-2024-12.pdf)
-- [2-2024-12.pdf](Chemical%20&%20Petrochemical%20Engineering/6th%20Semester/Miscellaneous/2-2024-12.pdf)
-- [3-2024-12.pdf](Chemical%20&%20Petrochemical%20Engineering/6th%20Semester/Miscellaneous/3-2024-12.pdf)
-- [-2024-12.pdf](Chemical%20&%20Petrochemical%20Engineering/6th%20Semester/Miscellaneous/-2024-12.pdf)
-- [-2024-12-2.pdf](Chemical%20&%20Petrochemical%20Engineering/6th%20Semester/Miscellaneous/-2024-12-2.pdf)
-
 ### 7th Semester
-
-#### Miscellaneous
-
-- [Chemical Btchc701vii.pdf](Chemical%20&%20Petrochemical%20Engineering/7th%20Semester/Miscellaneous/Chemical%20Btchc701vii.pdf)
-- [Chemical Sem VII.pdf](Chemical%20&%20Petrochemical%20Engineering/7th%20Semester/Miscellaneous/Chemical%20Sem%20VII.pdf)
-- [Miscellaneous-2017.pdf](Chemical%20&%20Petrochemical%20Engineering/7th%20Semester/Miscellaneous/Miscellaneous-2017.pdf)
-- [Pr Of Essional Elective IV Modeling And Simulationin Chemical-2022-02.pdf](Chemical%20&%20Petrochemical%20Engineering/7th%20Semester/Miscellaneous/Pr%20Of%20Essional%20Elective%20IV%20Modeling%20And%20Simulationin%20Chemical-2022-02.pdf)
 
 #### Transport Phenomena
 
 - [Transport Phenomena-Btchc-Chemical-Petrochemical-2023-02.pdf](Chemical%20&%20Petrochemical%20Engineering/7th%20Semester/Transport%20Phenomena/Transport%20Phenomena-Btchc-Chemical-Petrochemical-2023-02.pdf)
 
 ### 8th Semester
-
-#### Miscellaneous
-
-- [Chemical Btchc801aviii.pdf](Chemical%20&%20Petrochemical%20Engineering/8th%20Semester/Miscellaneous/Chemical%20Btchc801aviii.pdf)
-- [Chemical Btchc802aviii.pdf](Chemical%20&%20Petrochemical%20Engineering/8th%20Semester/Miscellaneous/Chemical%20Btchc802aviii.pdf)
 
 ---
 
@@ -2354,10 +2199,6 @@ This index lists question papers only. For full syllabi, use [Syllabus](Syllabus
 - [Machine Learning-3-2023-07.pdf](Artificial%20Intelligence%20&%20Data%20Science/5th%20Semester/Machine%20Learning/Machine%20Learning-3-2023-07.pdf)
 - [Machine Learning-4-2022-02.pdf](Artificial%20Intelligence%20&%20Data%20Science/5th%20Semester/Machine%20Learning/Machine%20Learning-4-2022-02.pdf)
 - [Machine Learning-2024-07.pdf](Artificial%20Intelligence%20&%20Data%20Science/5th%20Semester/Machine%20Learning/Machine%20Learning-2024-07.pdf)
-
-#### Miscellaneous
-
-- [11263semester5btaipe504dadvancedjava-2025-02.pdf](Artificial%20Intelligence%20&%20Data%20Science/5th%20Semester/Miscellaneous/11263semester5btaipe504dadvancedjava-2025-02.pdf)
 
 #### Robotics
 
@@ -2414,10 +2255,6 @@ This index lists question papers only. For full syllabi, use [Syllabus](Syllabus
 - [Full Stack Development-2-2023-02.pdf](Artificial%20Intelligence%20&%20Data%20Science/6th%20Semester/Full%20Stack%20Development/Full%20Stack%20Development-2-2023-02.pdf)
 - [Full Stack Development-2024-07.pdf](Artificial%20Intelligence%20&%20Data%20Science/6th%20Semester/Full%20Stack%20Development/Full%20Stack%20Development-2024-07.pdf)
 
-#### Miscellaneous
-
-- [11263semester6btaioe604cagilemethodology-2025-02.pdf](Artificial%20Intelligence%20&%20Data%20Science/6th%20Semester/Miscellaneous/11263semester6btaioe604cagilemethodology-2025-02.pdf)
-
 #### Mobile Application Development
 
 - [Mobile Application Development-2-2024-01.pdf](Artificial%20Intelligence%20&%20Data%20Science/6th%20Semester/Mobile%20Application%20Development/Mobile%20Application%20Development-2-2024-01.pdf)
@@ -2459,28 +2296,11 @@ This index lists question papers only. For full syllabi, use [Syllabus](Syllabus
 
 - [Internet of Things-2025-02.pdf](Electrical%20Engineering/7th%20Semester/Internet%20of%20Things/Internet%20of%20Things-2025-02.pdf)
 
-#### Miscellaneous
-
-- [11293semester7bteec702powersystemoperationcontrol-2025-02.pdf](Electrical%20Engineering/7th%20Semester/Miscellaneous/11293semester7bteec702powersystemoperationcontrol-2025-02.pdf)
-- [11464semester7btinpe702instrumentationsystemdesign-2025-02.pdf](Electrical%20Engineering/7th%20Semester/Miscellaneous/11464semester7btinpe702instrumentationsystemdesign-2025-02.pdf)
-- [Electrical Bteec703vii.pdf](Electrical%20Engineering/7th%20Semester/Miscellaneous/Electrical%20Bteec703vii.pdf)
-
 ---
 
 ## Mechatronics Engineering
 
 ### 6th Semester
-
-#### Miscellaneous
-
-- [1-2024-02.pdf](Mechatronics%20Engineering/6th%20Semester/Miscellaneous/1-2024-02.pdf)
-- [Ch 1-2024-02.pdf](Mechatronics%20Engineering/6th%20Semester/Miscellaneous/Ch%201-2024-02.pdf)
-- [Mechatronics Electronic Control Systems.pdf](Mechatronics%20Engineering/6th%20Semester/Miscellaneous/Mechatronics%20Electronic%20Control%20Systems.pdf)
-- [Peim Ese Supp-2024-12.pdf](Mechatronics%20Engineering/6th%20Semester/Miscellaneous/Peim%20Ese%20Supp-2024-12.pdf)
-- [Unit 3 Drives (mechatronics.pdf](Mechatronics%20Engineering/6th%20Semester/Miscellaneous/Unit%203%20Drives%20(mechatronics.pdf)
-- [Unit 4 Microprocessor & Microcontroller.pdf](Mechatronics%20Engineering/6th%20Semester/Miscellaneous/Unit%204%20Microprocessor%20&%20Microcontroller.pdf)
-- [Unit 5 Control Systems( Mect.pdf](Mechatronics%20Engineering/6th%20Semester/Miscellaneous/Unit%205%20Control%20Systems(%20Mect.pdf)
-- [Unit 6 Stability Of Systems ( Mect.pdf](Mechatronics%20Engineering/6th%20Semester/Miscellaneous/Unit%206%20Stability%20Of%20Systems%20(%20Mect.pdf)
 
 ### 7th Semester
 
@@ -2490,16 +2310,4 @@ This index lists question papers only. For full syllabi, use [Syllabus](Syllabus
 
 ---
 
-## Biomedical Engineering
-
-### 6th Semester
-
-#### Miscellaneous
-
-- [1-2024-12.pdf](Biomedical%20Engineering/6th%20Semester/Miscellaneous/1-2024-12.pdf)
-- [Miscellaneous 2-2024-12.pdf](Biomedical%20Engineering/6th%20Semester/Miscellaneous/Miscellaneous%202-2024-12.pdf)
-- [Miscellaneous-2024-12.pdf](Biomedical%20Engineering/6th%20Semester/Miscellaneous/Miscellaneous-2024-12.pdf)
-
----
-
-*1352 papers across 328 subjects in 11 branches*
+*1251 papers across 300 subjects in 10 branches*

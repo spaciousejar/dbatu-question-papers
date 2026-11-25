@@ -13,6 +13,5 @@ Question papers for 3rd Semester of Computer Science Engineering.
 - [Engineering Mathematics-III](Engineering%20Mathematics-III/) (15 papers)
 - [Ethical Hacking](Ethical%20Hacking/) (1 paper)
 - [Intellectual Property Rights](Intellectual%20Property%20Rights/) (1 paper)
-- [Miscellaneous](Miscellaneous/) (3 papers)
 - [Object Oriented Programming in C++](Object%20Oriented%20Programming%20in%20C++/) (5 papers)
 - [Universal Human Values-II](Universal%20Human%20Values-II/) (5 papers)

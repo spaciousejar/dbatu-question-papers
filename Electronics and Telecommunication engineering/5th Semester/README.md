@@ -12,6 +12,5 @@ Question papers for 5th Semester of Electronics & Telecommunication Engineering.
 - [Digital Signal Processing](Digital%20Signal%20Processing/) (7 papers)
 - [Electromagnetic Field Theory](Electromagnetic%20Field%20Theory/) (6 papers)
 - [Embedded System Design](Embedded%20System%20Design/) (4 papers)
-- [Miscellaneous](Miscellaneous/) (3 papers)
 - [Power Electronics](Power%20Electronics/) (1 paper)
 - [Project Management](Project%20Management/) (1 paper)

@@ -13,7 +13,6 @@ Question papers for 5th Semester of Mechanical Engineering.
 - [Manufacturing Processes-III](Manufacturing%20Processes-III/) (4 papers)
 - [Mechanical Measurement](Mechanical%20Measurement/) (1 paper)
 - [Metrology and Quality Control](Metrology%20and%20Quality%20Control/) (1 paper)
-- [Miscellaneous](Miscellaneous/) (2 papers)
 - [Product Design Engineering](Product%20Design%20Engineering/) (3 papers)
 - [Refrigeration and Air Conditioning](Refrigeration%20and%20Air%20Conditioning/) (2 papers)
 - [Renewable Energy Resources](Renewable%20Energy%20Resources/) (1 paper)
