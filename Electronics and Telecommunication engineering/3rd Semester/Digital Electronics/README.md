@@ -2,4 +2,4 @@
 
 **Branch:** Electronics and Telecommunication engineering
 **Semester:** 3rd Semester
-**Total Papers:** 4
+**Total Papers:** 3

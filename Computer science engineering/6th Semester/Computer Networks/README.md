@@ -2,4 +2,4 @@
 
 **Branch:** Computer science engineering
 **Semester:** 6th Semester
-**Total Papers:** 9
+**Total Papers:** 8

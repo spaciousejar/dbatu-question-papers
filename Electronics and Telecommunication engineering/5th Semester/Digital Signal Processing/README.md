@@ -2,4 +2,4 @@
 
 **Branch:** Electronics and Telecommunication engineering
 **Semester:** 5th Semester
-**Total Papers:** 8
+**Total Papers:** 7

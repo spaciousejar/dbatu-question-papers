@@ -4,8 +4,8 @@ Question papers for Artificial Intelligence & Data Science students at DBATU.
 
 ## Semesters
 
-| Semester | Papers |
-|----------|--------|
-| [5th](5th/) | 25 papers |
-| [6th](6th/) | 23 papers |
-| [7th](7th/) | 5 papers |
+| Semester                        | Papers    |
+|-------------------------------|---------|
+| [5th Semester](5th%20Semester/) | 25 papers |
+| [6th Semester](6th%20Semester/) | 22 papers |
+| [7th Semester](7th%20Semester/) | 5 papers  |

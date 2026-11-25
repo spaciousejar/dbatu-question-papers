@@ -4,7 +4,7 @@ Question papers for Electrical Engineering students at DBATU.
 
 ## Semesters
 
-| Semester | Papers |
-|----------|--------|
-| [6th](6th/) | 1 papers |
-| [7th](7th/) | 4 papers |
+| Semester                        | Papers   |
+|-------------------------------|--------|
+| [6th Semester](6th%20Semester/) | 1 paper |
+| [7th Semester](7th%20Semester/) | 4 papers |
