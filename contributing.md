@@ -28,8 +28,6 @@ Branch/
 | Civil | `Civil Engineering/` |
 | Chemical | `Chemical & Petrochemical Engineering/` |
 | AI & Data Science | `Artificial Intelligence & Data Science/` |
-| B.Pharm | `Pharmacy - B.Pharm/` |
-| M.Pharm | `Pharmacy - M.Pharm/` |
 | Electrical | `Electrical Engineering/` |
 | Mechatronics | `Mechatronics Engineering/` |
 | Biomedical | `Biomedical Engineering/` |

@@ -30,8 +30,6 @@ To search across all branches, open [INDEX.md](INDEX.md) and use your browser's 
 | [Civil Engineering](Civil%20Engineering/) | 3rd-8th Semester | 230 |
 | [Chemical & Petrochemical Engineering](Chemical%20%26%20Petrochemical%20Engineering/) | 3rd-8th Semester | 44 |
 | [Artificial Intelligence & Data Science](Artificial%20Intelligence%20%26%20Data%20Science/) | 5th-7th Semester | 52 |
-| [Pharmacy - B.Pharm](Pharmacy%20-%20B.Pharm/) | 1st-8th Semester | 146 |
-| [Pharmacy - M.Pharm](Pharmacy%20-%20M.Pharm/) | 2nd Semester | 8 |
 | [Electrical Engineering](Electrical%20Engineering/) | 6th & 7th Semester | 5 |
 | [Mechatronics Engineering](Mechatronics%20Engineering/) | 6th-7th Semester | 9 |
 | [Biomedical Engineering](Biomedical%20Engineering/) | 6th Semester | 3 |
@@ -39,7 +37,7 @@ To search across all branches, open [INDEX.md](INDEX.md) and use your browser's 
 
 ## Syllabus
 
-Full syllabus PDFs are in [Syllabus](Syllabus/), grouped by branch. The folder has 146 PDFs. Open your branch folder to see its syllabus files.
+Full syllabus PDFs are in [Syllabus](Syllabus/), grouped by branch. The folder has 144 PDFs. Open your branch folder to see its syllabus files.
 
 ## File Naming
 
